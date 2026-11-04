@@ -1,0 +1,163 @@
+parent_app_id,parent_game,dlc_app_id,dlc_name,release_date,type,is_free,store_url,retrieved_at_utc
+1091500,Cyberpunk 2077,2138330,Cyberpunk 2077: Phantom Liberty,"Sep 25, 2023",dlc,False,https://store.steampowered.com/app/2138330/,2026-11-04T05:58:16.003036+00:00
+1091500,Cyberpunk 2077,1495710,Cyberpunk 2077 Bonus Content,"Dec 9, 2020",dlc,True,https://store.steampowered.com/app/1495710/,2026-11-04T05:58:16.003036+00:00
+1091500,Cyberpunk 2077,2060310,Cyberpunk 2077 REDmod,"Sep 6, 2022",dlc,True,https://store.steampowered.com/app/2060310/,2026-11-04T05:58:16.003036+00:00
+1245620,ELDEN RING,3655690,ELDEN RING Tarnished Pack,"Aug 27, 2026",dlc,False,https://store.steampowered.com/app/3655690/,2026-11-04T05:58:16.003036+00:00
+1245620,ELDEN RING,2778590,ELDEN RING Shadow of the Erdtree Premium Bundle,"Jun 20, 2024",dlc,False,https://store.steampowered.com/app/2778590/,2026-11-04T05:58:16.003036+00:00
+1245620,ELDEN RING,2778580,ELDEN RING Shadow of the Erdtree,"Jun 20, 2024",dlc,False,https://store.steampowered.com/app/2778580/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,1118010,Monster Hunter World: Iceborne,"Jan 9, 2020",dlc,False,https://store.steampowered.com/app/1118010/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,912540,Monster Hunter: World Original Soundtrack,"Aug 9, 2018",music,False,https://store.steampowered.com/app/912540/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,960781,Monster Hunter: World - High Resolution Texture Pack,"Apr 3, 2019",dlc,True,https://store.steampowered.com/app/960781/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,896580,Monster Hunter: World - Additional Gesture Bundle 1,"Aug 9, 2018",dlc,True,https://store.steampowered.com/app/896580/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,763695,Monster Hunter: World - Hairstyle: Provisions Manager,"Aug 9, 2018",dlc,True,https://store.steampowered.com/app/763695/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,763696,Monster Hunter: World - Hairstyle: Field Team Leader,"Aug 9, 2018",dlc,True,https://store.steampowered.com/app/763696/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,763699,Monster Hunter: World - The Handler's Guildmarm Costume,"Aug 9, 2018",dlc,False,https://store.steampowered.com/app/763699/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,891730,Monster Hunter: World - Deluxe Kit,"Aug 9, 2018",dlc,False,https://store.steampowered.com/app/891730/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,770970,Monster Hunter: World - The Handler's Astera 3 Star Chef Coat,"Sep 5, 2018",dlc,False,https://store.steampowered.com/app/770970/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,770974,Monster Hunter: World - The Handler's Mischievous Dress,"Oct 4, 2018",dlc,False,https://store.steampowered.com/app/770974/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,763697,Monster Hunter: World - Hairstyle: The Handler,"Oct 4, 2018",dlc,True,https://store.steampowered.com/app/763697/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,763698,Monster Hunter: World - Hairstyle: The Admiral,"Oct 4, 2018",dlc,True,https://store.steampowered.com/app/763698/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,770977,Monster Hunter: World - Free Character Edit Voucher,"Oct 4, 2018",dlc,True,https://store.steampowered.com/app/770977/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,762919,Monster Hunter: World - Sticker Set: Mega Man Set,"Oct 18, 2018",dlc,False,https://store.steampowered.com/app/762919/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,861870,Monster Hunter: World - Character Edit Voucher: Single Voucher,"Oct 30, 2018",dlc,False,https://store.steampowered.com/app/861870/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,861871,Monster Hunter: World - Character Edit Voucher: Two-Voucher Pack,"Oct 30, 2018",dlc,False,https://store.steampowered.com/app/861871/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,861872,Monster Hunter: World - Character Edit Voucher: Three-Voucher Pack,"Oct 30, 2018",dlc,False,https://store.steampowered.com/app/861872/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,762174,Monster Hunter: World - Gesture: Devil May Cry Dual Guns,"Nov 15, 2018",dlc,False,https://store.steampowered.com/app/762174/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,762918,Monster Hunter: World - Sticker Set: Devil May Cry Set,"Nov 15, 2018",dlc,False,https://store.steampowered.com/app/762918/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,770975,Monster Hunter: World - The Handler's Winter Spirit Coat,"Nov 29, 2018",dlc,False,https://store.steampowered.com/app/770975/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,974302,Monster Hunter: World - Free Sticker Set: Mingle Hunter,"Nov 29, 2018",dlc,True,https://store.steampowered.com/app/974302/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,996740,Monster Hunter: World - Free Gesture: Happy Hunting!,"Jan 24, 2019",dlc,True,https://store.steampowered.com/app/996740/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,770976,Monster Hunter: World - The Handler's Friendly Felyne Costume,"Jan 24, 2019",dlc,False,https://store.steampowered.com/app/770976/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,770972,Monster Hunter: World - The Handler's Busy Bee Dress,"Apr 25, 2019",dlc,False,https://store.steampowered.com/app/770972/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,770973,Monster Hunter: World - The Handler's Sunshine Pareo,"Aug 1, 2019",dlc,False,https://store.steampowered.com/app/770973/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,1118012,Monster Hunter World: Iceborne Deluxe Kit,"Jan 9, 2020",dlc,False,https://store.steampowered.com/app/1118012/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,1118017,Monster Hunter: World - Character & Palico Edit Voucher: Single Voucher,"Jan 9, 2020",dlc,False,https://store.steampowered.com/app/1118017/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,1118018,Monster Hunter: World - Character & Palico Edit Voucher: Two-Voucher Pack,"Jan 9, 2020",dlc,False,https://store.steampowered.com/app/1118018/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,1118019,Monster Hunter: World - Character & Palico Edit Voucher: Three-Voucher Pack,"Jan 9, 2020",dlc,False,https://store.steampowered.com/app/1118019/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,1118013,Monster Hunter: World - Palico Edit Voucher: Single Voucher,"Jan 9, 2020",dlc,False,https://store.steampowered.com/app/1118013/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,3589650,Total War: WARHAMMER III - Nagash – Lords of the End Times,"Sep 24, 2026",dlc,False,https://store.steampowered.com/app/3589650/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,3589660,Total War: WARHAMMER III - Thanquol – Lords of the End Times,"Sep 24, 2026",dlc,False,https://store.steampowered.com/app/3589660/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,3589670,Total War: WARHAMMER III - Boris Todbringer – Lords of the End Times,"Sep 24, 2026",dlc,False,https://store.steampowered.com/app/3589670/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,3589680,Total War: WARHAMMER III - The Glottkin – Lords of the End Times,"Sep 24, 2026",dlc,False,https://store.steampowered.com/app/3589680/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,4399460,Total War: WARHAMMER III - Bhashiva – Character Pack,"May 21, 2026",dlc,False,https://store.steampowered.com/app/4399460/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,4605280,Total War: WARHAMMER III - Original Soundtrack,"May 21, 2026",music,False,https://store.steampowered.com/app/4605280/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,3450970,Total War: WARHAMMER III - Sayl – Tides of Torment,"Dec 4, 2025",dlc,False,https://store.steampowered.com/app/3450970/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,3450960,Total War: WARHAMMER III - Aislinn – Tides of Torment,"Dec 4, 2025",dlc,False,https://store.steampowered.com/app/3450960/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,3450980,Total War: WARHAMMER III - Dechala – Tides of Torment,"Dec 4, 2025",dlc,False,https://store.steampowered.com/app/3450980/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,3301110,Total War: WARHAMMER III - The Changeling – Shadows of Change,"Mar 25, 2025",dlc,False,https://store.steampowered.com/app/3301110/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,3301120,Total War: WARHAMMER III - Yuan Bo – Shadows of Change,"Mar 25, 2025",dlc,False,https://store.steampowered.com/app/3301120/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,3301130,Total War: WARHAMMER III - Mother Ostankya – Shadows of Change,"Mar 25, 2025",dlc,False,https://store.steampowered.com/app/3301130/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,2574900,Total War: WARHAMMER III - Gorbad – Omens of Destruction,"Dec 12, 2024",dlc,False,https://store.steampowered.com/app/2574900/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,3130740,Total War: WARHAMMER III - Golgfag – Omens of Destruction,"Dec 12, 2024",dlc,False,https://store.steampowered.com/app/3130740/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,3130750,Total War: WARHAMMER III - Skulltaker – Omens of Destruction,"Dec 12, 2024",dlc,False,https://store.steampowered.com/app/3130750/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,2325832,Total War: WARHAMMER III - Elspeth – Thrones of Decay,"Apr 30, 2024",dlc,False,https://store.steampowered.com/app/2325832/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,2891710,Total War: WARHAMMER III - Malakai – Thrones of Decay,"Apr 30, 2024",dlc,False,https://store.steampowered.com/app/2891710/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,2891700,Total War: WARHAMMER III - Tamurkhan – Thrones of Decay,"Apr 30, 2024",dlc,False,https://store.steampowered.com/app/2891700/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,2059190,Total War: WARHAMMER III - Forge of the Chaos Dwarfs,"Apr 13, 2023",dlc,False,https://store.steampowered.com/app/2059190/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,1824060,Total War: WARHAMMER III - Champions of Chaos,"Aug 23, 2022",dlc,False,https://store.steampowered.com/app/1824060/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,1374300,Total War: WARHAMMER III - Blood for the Blood God III,"Aug 23, 2022",dlc,False,https://store.steampowered.com/app/1374300/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,1670540,Total War: WARHAMMER III - Ogre Kingdoms,"Feb 24, 2022",dlc,False,https://store.steampowered.com/app/1670540/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,3858050,Total War: WARHAMMER III - UPGRADE PACK,"Dec 3, 2025",dlc,False,https://store.steampowered.com/app/3858050/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,1556110,Total War: WARHAMMER II - The Silence & The Fury,"Jul 14, 2021",dlc,False,https://store.steampowered.com/app/1556110/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,1315750,Total War: WARHAMMER II - The Twisted & The Twilight,"Dec 3, 2020",dlc,False,https://store.steampowered.com/app/1315750/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,1209120,Total War: WARHAMMER II - The Warden & The Paunch,"May 21, 2020",dlc,False,https://store.steampowered.com/app/1209120/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,1158180,Total War: WARHAMMER II - The Shadow & The Blade,"Dec 12, 2019",dlc,False,https://store.steampowered.com/app/1158180/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,1074320,Total War: WARHAMMER II - The Hunter & The Beast,"Sep 11, 2019",dlc,False,https://store.steampowered.com/app/1074320/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,965220,Total War: WARHAMMER II - The Prophet & The Warlock,"Apr 17, 2019",dlc,False,https://store.steampowered.com/app/965220/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,835670,Total War: WARHAMMER II - Curse of the Vampire Coast,"Nov 8, 2018",dlc,False,https://store.steampowered.com/app/835670/,2026-11-04T05:58:16.003036+00:00
+1151340,Fallout 76,4712160,Fallout 76 - Deathclaw Pet Bundle,"Jun 2, 2026",dlc,False,https://store.steampowered.com/app/4712160/,2026-11-04T05:58:16.003036+00:00
+1151340,Fallout 76,4250650,Fallout 76: Mojave Bundle,"Jan 29, 2026",dlc,False,https://store.steampowered.com/app/4250650/,2026-11-04T05:58:16.003036+00:00
+1151340,Fallout 76,4141110,Fallout 76: Burning Springs Starter Bundle,"Dec 2, 2025",dlc,False,https://store.steampowered.com/app/4141110/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,5060920,Dead by Daylight: Chorus of Sin,"Aug 25, 2026",dlc,False,https://store.steampowered.com/app/5060920/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,4791830,Dead by Daylight: Jason,"Jun 16, 2026",dlc,False,https://store.steampowered.com/app/4791830/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,4318580,Dead by Daylight: Stranger Things Chapter 2,"Jan 27, 2026",dlc,False,https://store.steampowered.com/app/4318580/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,4019590,Dead by Daylight - Sinister Grace,"Sep 23, 2025",dlc,False,https://store.steampowered.com/app/4019590/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,3884020,Dead by Daylight: The Walking Dead,"Jul 29, 2025",dlc,False,https://store.steampowered.com/app/3884020/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,3796620,Dead by Daylight: Five Nights at Freddy’s,"Jun 17, 2025",dlc,False,https://store.steampowered.com/app/3796620/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,3698790,Dead by Daylight - Steady Pulse,"May 6, 2025",dlc,False,https://store.steampowered.com/app/3698790/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,3448670,Dead by Daylight - Tokyo Ghoul,"Apr 2, 2025",dlc,False,https://store.steampowered.com/app/3448670/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,3261720,Dead by Daylight - Doomed Course,"Nov 28, 2024",dlc,False,https://store.steampowered.com/app/3261720/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,3103150,Dead by Daylight - Castlevania Chapter,"Aug 27, 2024",dlc,False,https://store.steampowered.com/app/3103150/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,3024580,Dead by Daylight - Tomb Raider Chapter,"Jul 16, 2024",dlc,False,https://store.steampowered.com/app/3024580/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,2958440,Dead by Daylight - Dungeons & Dragons,"Jun 3, 2024",dlc,False,https://store.steampowered.com/app/2958440/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,2661270,Dead by Daylight - All Things Wicked Chapter,"Mar 12, 2024",dlc,False,https://store.steampowered.com/app/2661270/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,2661250,Dead by Daylight - Alan Wake Chapter,"Jan 30, 2024",dlc,False,https://store.steampowered.com/app/2661250/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,2922730,Dead by Daylight - Endless Hunt Pack,"May 14, 2024",dlc,False,https://store.steampowered.com/app/2922730/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,2526530,Dead by Daylight - Maddening Darkness Pack,"Jan 8, 2024",dlc,False,https://store.steampowered.com/app/2526530/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,2526540,Dead by Daylight - Old Wounds Pack,"Jan 8, 2024",dlc,False,https://store.steampowered.com/app/2526540/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,2526550,Dead by Daylight - Macabre Tales Pack,"Jan 8, 2024",dlc,False,https://store.steampowered.com/app/2526550/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,2656010,Dead by Daylight - Chucky Chapter,"Nov 28, 2023",dlc,False,https://store.steampowered.com/app/2656010/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,1135280,Dead by Daylight - Stranger Things Chapter,"Sep 17, 2019",dlc,False,https://store.steampowered.com/app/1135280/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,2515990,Dead by Daylight - Alien Chapter Pack,"Aug 29, 2023",dlc,False,https://store.steampowered.com/app/2515990/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,2469400,Dead by Daylight - Nicolas Cage Chapter Pack,"Jul 25, 2023",dlc,False,https://store.steampowered.com/app/2469400/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,2399750,Dead by Daylight - End Transmission Chapter,"Jun 13, 2023",dlc,False,https://store.steampowered.com/app/2399750/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,2102730,Dead by Daylight - Resident Evil: PROJECT W Chapter,"Aug 30, 2022",dlc,False,https://store.steampowered.com/app/2102730/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,1899750,Dead by Daylight - Sadako Rising Chapter,"Mar 8, 2022",dlc,False,https://store.steampowered.com/app/1899750/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,1634040,Dead by Daylight - Resident Evil Chapter,"Jun 15, 2021",dlc,False,https://store.steampowered.com/app/1634040/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,1622941,Dead by Daylight - Escape Expansion Pack,"Jun 15, 2021",dlc,False,https://store.steampowered.com/app/1622941/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,1622940,Dead by Daylight - Terror Expansion Pack,"Jun 15, 2021",dlc,False,https://store.steampowered.com/app/1622940/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,700282,Dead by Daylight - A Nightmare on Elm Street™,"Oct 26, 2017",dlc,False,https://store.steampowered.com/app/700282/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,1009821,Dead by Daylight - Ash vs Evil Dead,"Apr 2, 2019",dlc,False,https://store.steampowered.com/app/1009821/,2026-11-04T05:58:16.003036+00:00
+1085660,Destiny 2,3186540,Destiny 2: Renegades,"Dec 2, 2025",dlc,False,https://store.steampowered.com/app/3186540/,2026-11-04T05:58:16.003036+00:00
+1085660,Destiny 2,3186490,Destiny 2: The Edge of Fate,"Jul 15, 2025",dlc,False,https://store.steampowered.com/app/3186490/,2026-11-04T05:58:16.003036+00:00
+1085660,Destiny 2,2336880,Destiny 2: The Final Shape,"Jun 4, 2024",dlc,False,https://store.steampowered.com/app/2336880/,2026-11-04T05:58:16.003036+00:00
+1085660,Destiny 2,1945340,Destiny 2: Lightfall,"Feb 28, 2023",dlc,False,https://store.steampowered.com/app/1945340/,2026-11-04T05:58:16.003036+00:00
+1085660,Destiny 2,1656330,Destiny 2: The Witch Queen,"Feb 22, 2022",dlc,False,https://store.steampowered.com/app/1656330/,2026-11-04T05:58:16.003036+00:00
+1085660,Destiny 2,1656370,Destiny 2: Bungie 30th Anniversary Pack,"Dec 7, 2021",dlc,False,https://store.steampowered.com/app/1656370/,2026-11-04T05:58:16.003036+00:00
+1085660,Destiny 2,1314563,Destiny 2: Beyond Light Pack,"Nov 10, 2020",dlc,False,https://store.steampowered.com/app/1314563/,2026-11-04T05:58:16.003036+00:00
+1085660,Destiny 2,1090200,Destiny 2: Shadowkeep Pack,"Oct 1, 2019",dlc,False,https://store.steampowered.com/app/1090200/,2026-11-04T05:58:16.003036+00:00
+1085660,Destiny 2,1090150,Destiny 2: Forsaken Pack,"Oct 1, 2019",dlc,False,https://store.steampowered.com/app/1090150/,2026-11-04T05:58:16.003036+00:00
+1085660,Destiny 2,1745440,Destiny 2: Triumphant Silver Bundle,"Dec 7, 2021",dlc,False,https://store.steampowered.com/app/1745440/,2026-11-04T05:58:16.003036+00:00
+1085660,Destiny 2,1569630,Destiny 2: Throne of Atheon Emote Bundle,"May 21, 2021",dlc,False,https://store.steampowered.com/app/1569630/,2026-11-04T05:58:16.003036+00:00
+1085660,Destiny 2,4562000,Destiny 2: Dungeon Key Pack,"Jun 9, 2026",dlc,False,https://store.steampowered.com/app/4562000/,2026-11-04T05:58:16.003036+00:00
+632360,Risk of Rain 2,3055670,Risk of Rain 2: Hallowed Concepts,"Oct 8, 2026",dlc,False,https://store.steampowered.com/app/3055670/,2026-11-04T05:58:16.003036+00:00
+632360,Risk of Rain 2,2781620,Risk of Rain 2: Alloyed Collective,"Nov 18, 2025",dlc,False,https://store.steampowered.com/app/2781620/,2026-11-04T05:58:16.003036+00:00
+632360,Risk of Rain 2,2306620,Risk of Rain 2: Seekers of the Storm,"Aug 27, 2024",dlc,False,https://store.steampowered.com/app/2306620/,2026-11-04T05:58:16.003036+00:00
+632360,Risk of Rain 2,1607890,Risk of Rain 2: Survivors of the Void,"Mar 1, 2022",dlc,False,https://store.steampowered.com/app/1607890/,2026-11-04T05:58:16.003036+00:00
+632360,Risk of Rain 2,1236890,Risk of Rain 2 Soundtrack,"Aug 11, 2020",music,False,https://store.steampowered.com/app/1236890/,2026-11-04T05:58:16.003036+00:00
+632360,Risk of Rain 2,1905390,Risk of Rain 2: Survivors of the Void - Soundtrack,"Mar 1, 2022",music,False,https://store.steampowered.com/app/1905390/,2026-11-04T05:58:16.003036+00:00
+632360,Risk of Rain 2,3055680,Risk of Rain 2: Seekers of the Storm - Soundtrack,"Aug 27, 2024",music,False,https://store.steampowered.com/app/3055680/,2026-11-04T05:58:16.003036+00:00
+1282100,Remnant II,2384075,Remnant II® - The Dark Horizon,"Sep 24, 2024",dlc,False,https://store.steampowered.com/app/2384075/,2026-11-04T05:58:16.003036+00:00
+1282100,Remnant II,2384074,Remnant II® - The Forgotten Kingdom,"Apr 23, 2024",dlc,False,https://store.steampowered.com/app/2384074/,2026-11-04T05:58:16.003036+00:00
+1282100,Remnant II,2384073,Remnant II® - The Awakened King,"Nov 14, 2023",dlc,False,https://store.steampowered.com/app/2384073/,2026-11-04T05:58:16.003036+00:00
+2050650,Resident Evil 4,2109300,Resident Evil 4 - Separate Ways,"Sep 20, 2023",dlc,False,https://store.steampowered.com/app/2109300/,2026-11-04T05:58:16.003036+00:00
+2050650,Resident Evil 4,2593600,Resident Evil 4 Original Soundtrack,"Sep 20, 2023",music,False,https://store.steampowered.com/app/2593600/,2026-11-04T05:58:16.003036+00:00
+2050650,Resident Evil 4,2109315,Resident Evil 4 - The Mercenaries,"Apr 6, 2023",dlc,True,https://store.steampowered.com/app/2109315/,2026-11-04T05:58:16.003036+00:00
+2050650,Resident Evil 4,2109301,Resident Evil 4 Treasure Map: Expansion,"Mar 23, 2023",dlc,False,https://store.steampowered.com/app/2109301/,2026-11-04T05:58:16.003036+00:00
+2050650,Resident Evil 4,2109303,Resident Evil 4 Leon & Ashley Costumes: 'Casual',"Mar 23, 2023",dlc,False,https://store.steampowered.com/app/2109303/,2026-11-04T05:58:16.003036+00:00
+2050650,Resident Evil 4,2109304,Resident Evil 4 Leon & Ashley Costumes: 'Romantic',"Mar 23, 2023",dlc,False,https://store.steampowered.com/app/2109304/,2026-11-04T05:58:16.003036+00:00
+2050650,Resident Evil 4,2109305,Resident Evil 4 Leon Costume & Filter: 'Hero',"Mar 23, 2023",dlc,False,https://store.steampowered.com/app/2109305/,2026-11-04T05:58:16.003036+00:00
+2050650,Resident Evil 4,2109306,Resident Evil 4 Leon Costume & Filter: 'Villain',"Mar 23, 2023",dlc,False,https://store.steampowered.com/app/2109306/,2026-11-04T05:58:16.003036+00:00
+2050650,Resident Evil 4,2109307,Resident Evil 4 'Original Ver.' Soundtrack Swap,"Mar 23, 2023",dlc,False,https://store.steampowered.com/app/2109307/,2026-11-04T05:58:16.003036+00:00
+2050650,Resident Evil 4,2109308,Resident Evil 4 Deluxe Weapon: 'Sentinel Nine',"Mar 23, 2023",dlc,False,https://store.steampowered.com/app/2109308/,2026-11-04T05:58:16.003036+00:00
+2050650,Resident Evil 4,2109309,Resident Evil 4 Deluxe Weapon: 'Skull Shaker',"Mar 23, 2023",dlc,False,https://store.steampowered.com/app/2109309/,2026-11-04T05:58:16.003036+00:00
+2050650,Resident Evil 4,2109310,Resident Evil 4 Leon Accessory: 'Sunglasses (Sporty)',"Mar 23, 2023",dlc,False,https://store.steampowered.com/app/2109310/,2026-11-04T05:58:16.003036+00:00
+2050650,Resident Evil 4,2109316,Resident Evil 4 Weapon Exclusive Upgrade Ticket x1 (A),"Apr 6, 2023",dlc,False,https://store.steampowered.com/app/2109316/,2026-11-04T05:58:16.003036+00:00
+2050650,Resident Evil 4,2109317,Resident Evil 4 Weapon Exclusive Upgrade Ticket x1 (B),"Apr 6, 2023",dlc,False,https://store.steampowered.com/app/2109317/,2026-11-04T05:58:16.003036+00:00
+2050650,Resident Evil 4,2197320,Resident Evil 4 Weapon Exclusive Upgrade Ticket x1 (C),"Apr 6, 2023",dlc,False,https://store.steampowered.com/app/2197320/,2026-11-04T05:58:16.003036+00:00
+2050650,Resident Evil 4,2197321,Resident Evil 4 Weapon Exclusive Upgrade Ticket x1 (D),"Apr 6, 2023",dlc,False,https://store.steampowered.com/app/2197321/,2026-11-04T05:58:16.003036+00:00
+2050650,Resident Evil 4,2197322,Resident Evil 4 Weapon Exclusive Upgrade Ticket x1 (E),"Apr 6, 2023",dlc,False,https://store.steampowered.com/app/2197322/,2026-11-04T05:58:16.003036+00:00
+2050650,Resident Evil 4,2197323,Resident Evil 4 Weapon Exclusive Upgrade Ticket x1 (F),"Apr 6, 2023",dlc,False,https://store.steampowered.com/app/2197323/,2026-11-04T05:58:16.003036+00:00
+2050650,Resident Evil 4,2197324,Resident Evil 4 Weapon Exclusive Upgrade Ticket x3 (A),"Apr 6, 2023",dlc,False,https://store.steampowered.com/app/2197324/,2026-11-04T05:58:16.003036+00:00
+2050650,Resident Evil 4,2197325,Resident Evil 4 Weapon Exclusive Upgrade Ticket x3 (B),"Apr 6, 2023",dlc,False,https://store.steampowered.com/app/2197325/,2026-11-04T05:58:16.003036+00:00
+2050650,Resident Evil 4,2197326,Resident Evil 4 Weapon Exclusive Upgrade Ticket x3 (C),"Apr 6, 2023",dlc,False,https://store.steampowered.com/app/2197326/,2026-11-04T05:58:16.003036+00:00
+2050650,Resident Evil 4,2197327,Resident Evil 4 Weapon Exclusive Upgrade Ticket x3 (D),"Apr 6, 2023",dlc,False,https://store.steampowered.com/app/2197327/,2026-11-04T05:58:16.003036+00:00
+2050650,Resident Evil 4,2197328,Resident Evil 4 Weapon Exclusive Upgrade Ticket x5 (A),"Apr 6, 2023",dlc,False,https://store.steampowered.com/app/2197328/,2026-11-04T05:58:16.003036+00:00
+2050650,Resident Evil 4,2109311,Resident Evil 4 Attaché Case: 'Gold',"Jun 22, 2023",dlc,False,https://store.steampowered.com/app/2109311/,2026-11-04T05:58:16.003036+00:00
+2050650,Resident Evil 4,2109312,Resident Evil 4 Attaché Case: 'Classic',"Jun 22, 2023",dlc,False,https://store.steampowered.com/app/2109312/,2026-11-04T05:58:16.003036+00:00
+2050650,Resident Evil 4,2109313,Resident Evil 4 Charm: 'Handgun Ammo',"Jun 22, 2023",dlc,False,https://store.steampowered.com/app/2109313/,2026-11-04T05:58:16.003036+00:00
+2050650,Resident Evil 4,2109314,Resident Evil 4 Charm: 'Green Herb',"Jun 22, 2023",dlc,False,https://store.steampowered.com/app/2109314/,2026-11-04T05:58:16.003036+00:00
+2767030,Marvel Rivals,4406010,Marvel Rivals - High-Resolution Pack,"May 15, 2026",dlc,True,https://store.steampowered.com/app/4406010/,2026-11-04T05:58:16.003036+00:00
+570,Dota 2,1241930,The Dota 2 Official Soundtrack,"Feb 10, 2020",music,False,https://store.steampowered.com/app/1241930/,2026-11-04T05:58:16.003036+00:00
+570,Dota 2,652720,The Dota 2 Remixes EP,"Feb 10, 2020",music,True,https://store.steampowered.com/app/652720/,2026-11-04T05:58:16.003036+00:00
+440,Team Fortress 2,629330,Fight Songs: The Music Of Team Fortress 2,"May 4, 2017",music,False,https://store.steampowered.com/app/629330/,2026-11-04T05:58:16.003036+00:00
+289070,Sid Meier's Civilization VI,2158250,Sid Meier’s Civilization® VI: Leader Pass,"Nov 21, 2022",dlc,False,https://store.steampowered.com/app/2158250/,2026-11-04T05:58:16.003036+00:00
+289070,Sid Meier's Civilization VI,1308090,Sid Meier's Civilization® VI: New Frontier Pass,"May 20, 2020",dlc,False,https://store.steampowered.com/app/1308090/,2026-11-04T05:58:16.003036+00:00
+289070,Sid Meier's Civilization VI,947510,Sid Meier's Civilization® VI: Gathering Storm,"Feb 13, 2019",dlc,False,https://store.steampowered.com/app/947510/,2026-11-04T05:58:16.003036+00:00
+289070,Sid Meier's Civilization VI,645402,Sid Meier’s Civilization® VI: Rise and Fall,"Feb 7, 2018",dlc,False,https://store.steampowered.com/app/645402/,2026-11-04T05:58:16.003036+00:00
+289070,Sid Meier's Civilization VI,1478300,Sid Meier's Civilization® VI: Portugal Pack,"Mar 25, 2021",dlc,False,https://store.steampowered.com/app/1478300/,2026-11-04T05:58:16.003036+00:00
+289070,Sid Meier's Civilization VI,1436950,Sid Meier's Civilization® VI: Vietnam & Kublai Khan Pack,"Jan 28, 2021",dlc,False,https://store.steampowered.com/app/1436950/,2026-11-04T05:58:16.003036+00:00
+289070,Sid Meier's Civilization VI,1388850,Sid Meier's Civilization® VI: Babylon Pack,"Nov 19, 2020",dlc,False,https://store.steampowered.com/app/1388850/,2026-11-04T05:58:16.003036+00:00
+289070,Sid Meier's Civilization VI,1284470,Sid Meier's Civilization® VI: Byzantium & Gaul Pack,"Sep 24, 2020",dlc,False,https://store.steampowered.com/app/1284470/,2026-11-04T05:58:16.003036+00:00
+289070,Sid Meier's Civilization VI,1270540,Sid Meier's Civilization® VI: Ethiopia Pack,"Jul 23, 2020",dlc,False,https://store.steampowered.com/app/1270540/,2026-11-04T05:58:16.003036+00:00
+289070,Sid Meier's Civilization VI,1253990,Sid Meier's Civilization® VI: Maya & Gran Colombia Pack,"May 20, 2020",dlc,False,https://store.steampowered.com/app/1253990/,2026-11-04T05:58:16.003036+00:00
