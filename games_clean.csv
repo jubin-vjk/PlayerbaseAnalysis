@@ -1,0 +1,18 @@
+app_id,selected_name,steam_name,release_date,developer,publisher,genres,is_free,dlc_count,dlc_catalogue_truncated,store_url,retrieved_at_utc
+1091500,Cyberpunk 2077,Cyberpunk 2077,2020-12-09,CD PROJEKT RED,CD PROJEKT RED,RPG,False,3,False,https://store.steampowered.com/app/1091500/,2026-11-04T05:58:16.003036+00:00
+1245620,ELDEN RING,ELDEN RING,2022-02-24,"FromSoftware, Inc.","FromSoftware, Inc.; Bandai Namco Entertainment",Action; RPG,False,3,False,https://store.steampowered.com/app/1245620/,2026-11-04T05:58:16.003036+00:00
+582010,Monster Hunter: World,Monster Hunter: World,2018-08-08,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",Action,False,200,True,https://store.steampowered.com/app/582010/,2026-11-04T05:58:16.003036+00:00
+1142710,Total War: WARHAMMER III,Total War: WARHAMMER III,2022-02-16,CREATIVE ASSEMBLY; Feral Interactive,SEGA; Feral Interactive,Action; Strategy,False,38,True,https://store.steampowered.com/app/1142710/,2026-11-04T05:58:16.003036+00:00
+1151340,Fallout 76,Fallout 76,2020-04-14,Bethesda Game Studios,Bethesda Softworks,RPG,False,3,False,https://store.steampowered.com/app/1151340/,2026-11-04T05:58:16.003036+00:00
+381210,Dead by Daylight,Dead by Daylight,2016-06-14,Behaviour Interactive Inc.,Behaviour Interactive Inc.,Action,False,40,True,https://store.steampowered.com/app/381210/,2026-11-04T05:58:16.003036+00:00
+1085660,Destiny 2,Destiny 2,2019-10-01,Bungie,Bungie,Action; Adventure; Free To Play,True,12,False,https://store.steampowered.com/app/1085660/,2026-11-04T05:58:16.003036+00:00
+632360,Risk of Rain 2,Risk of Rain 2,2020-08-11,Hopoo Games,Gearbox Publishing; 2K,Action; Indie,False,7,False,https://store.steampowered.com/app/632360/,2026-11-04T05:58:16.003036+00:00
+1282100,Remnant II,REMNANT II®,2023-07-25,Gunfire Games,Arc Games; THQ Nordic,Action; Adventure; RPG,False,3,False,https://store.steampowered.com/app/1282100/,2026-11-04T05:58:16.003036+00:00
+2050650,Resident Evil 4,Resident Evil 4,2023-03-23,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",Action; Adventure,False,27,False,https://store.steampowered.com/app/2050650/,2026-11-04T05:58:16.003036+00:00
+553850,HELLDIVERS 2,HELLDIVERS™ 2,2024-02-08,Arrowhead Game Studios,PlayStation Publishing LLC,Action,False,0,False,https://store.steampowered.com/app/553850/,2026-11-04T05:58:16.003036+00:00
+2767030,Marvel Rivals,Marvel Rivals,2024-12-05,NetEase Games,NetEase Games,Action; Adventure; Casual; Massively Multiplayer; Racing; RPG; Strategy; Free To Play,True,1,False,https://store.steampowered.com/app/2767030/,2026-11-04T05:58:16.003036+00:00
+1174180,Red Dead Redemption 2,Red Dead Redemption 2,2019-12-05,Rockstar Games,Rockstar Games,Action; Adventure,False,0,False,https://store.steampowered.com/app/1174180/,2026-11-04T05:58:16.003036+00:00
+570,Dota 2,Dota 2,2013-07-09,Valve,Valve,Action; Strategy; Free To Play,True,2,False,https://store.steampowered.com/app/570/,2026-11-04T05:58:16.003036+00:00
+440,Team Fortress 2,Team Fortress 2,2007-10-10,Valve,Valve,Action; Free To Play,True,1,False,https://store.steampowered.com/app/440/,2026-11-04T05:58:16.003036+00:00
+1172470,Apex Legends,Apex Legends™,2020-11-04,Respawn,Electronic Arts,Action; Adventure; Free To Play,True,0,False,https://store.steampowered.com/app/1172470/,2026-11-04T05:58:16.003036+00:00
+289070,Sid Meier's Civilization VI,Sid Meier’s Civilization® VI,2016-10-20,Firaxis Games; Aspyr (Mac); Aspyr (Linux),2K; Aspyr (Mac); Aspyr (Linux),Strategy,False,10,False,https://store.steampowered.com/app/289070/,2026-11-04T05:58:16.003036+00:00
