@@ -74,6 +74,35 @@ def read_monthly_history(
     return history
 
 
+def read_dlc_dates(path: Path, games: dict[str, str]) -> dict[str, list[datetime]]:
+    dlc_dates: dict[str, set[datetime]] = {app_id: set() for app_id in games}
+    with path.open(newline="", encoding="utf-8-sig") as csv_file:
+        reader = csv.DictReader(csv_file)
+        required_columns = {"parent_app_id", "release_date"}
+        if reader.fieldnames is None or not required_columns.issubset(reader.fieldnames):
+            raise ValueError(
+                f"{path} must contain parent_app_id and release_date columns"
+            )
+
+        for line_number, row in enumerate(reader, start=2):
+            app_id = row["parent_app_id"].strip()
+            if app_id not in games:
+                continue
+
+            try:
+                release_date = datetime.strptime(row["release_date"].strip(), "%b %d, %Y")
+            except ValueError as error:
+                raise ValueError(
+                    f"Invalid release_date on line {line_number} of {path}: {error}"
+                ) from error
+            dlc_dates[app_id].add(release_date)
+
+    return {
+        app_id: sorted(releases)
+        for app_id, releases in dlc_dates.items()
+    }
+
+
 def write_monthly_csv(
     path: Path,
     games: dict[str, str],
@@ -96,6 +125,7 @@ def write_game_charts(
     output_dir: Path,
     games: dict[str, str],
     history: dict[str, list[tuple[datetime, float]]],
+    dlc_dates: dict[str, list[datetime]],
 ) -> int:
     chart_count = 0
     for app_id, game in games.items():
@@ -113,6 +143,17 @@ def write_game_charts(
 
         figure, axis = plt.subplots(figsize=(11, 5))
         axis.plot(months, average_players, marker="o", markersize=3, linewidth=1.5)
+        for index, release_date in enumerate(dlc_dates[app_id]):
+            axis.axvline(
+                release_date,
+                color="red",
+                linestyle="--",
+                linewidth=1,
+                alpha=0.7,
+                label="DLC release" if index == 0 else None,
+            )
+        if dlc_dates[app_id]:
+            axis.legend()
         axis.margins(x=0)
         axis.set_title(f"Monthly Average Players - {game}")
         axis.set_xlabel("Month")
@@ -135,19 +176,21 @@ def main() -> None:
     )
     parser.add_argument("--games", type=Path, default=ROOT / "games.csv")
     parser.add_argument("--history", type=Path, default=ROOT / "player_history.csv")
+    parser.add_argument("--dlcs", type=Path, default=ROOT / "dlcs.csv")
     parser.add_argument(
-        "--output-dir", type=Path, default=ROOT / "monthly_player_charts"
+        "--output-dir", type=Path, default=ROOT / "monthly_player_charts_with_DLC"
     )
     args = parser.parse_args()
 
     games = read_games(args.games)
     history = read_monthly_history(args.history, games)
+    dlc_dates = read_dlc_dates(args.dlcs, games)
     args.output_dir.mkdir(parents=True, exist_ok=True)
 
     row_count = write_monthly_csv(
         args.output_dir / "monthly_player_counts.csv", games, history
     )
-    chart_count = write_game_charts(args.output_dir, games, history)
+    chart_count = write_game_charts(args.output_dir, games, history, dlc_dates)
     print(
         f"Wrote {row_count} monthly rows and {chart_count} game charts "
         f"to {args.output_dir}"
