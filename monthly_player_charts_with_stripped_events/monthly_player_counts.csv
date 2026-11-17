@@ -1,0 +1,468 @@
+app_id,game,month,avg_players,event_name,event_type
+1091500,Cyberpunk 2077,2020-12,332395.65,Cyberpunk 2077 Bonus Content,dlc
+1091500,Cyberpunk 2077,2022-01,14519.69,It's All About You — Episode 4: Guests of the Afterlife,update
+1091500,Cyberpunk 2077,2022-03,17680.72,It's All About You – Episode 5: Streets of Night City,update
+1091500,Cyberpunk 2077,2022-06,9989.26,It's All About You – Episode 7: A Thing of Beauty,update
+1091500,Cyberpunk 2077,2022-09,43297.11,It's All About You – Episode 9: Dream on!; Cyberpunk 2077 REDmod,update; dlc
+1091500,Cyberpunk 2077,2022-12,28087.94,It’s All About You! — Episode 10,update
+1091500,Cyberpunk 2077,2023-02,15201.83,DLSS 3 & Reflex PC Update,update
+1091500,Cyberpunk 2077,2023-04,16091.94,It's All About You – Episode 12: Nocturne OP55N1,update
+1091500,Cyberpunk 2077,2023-06,14736.68,Update to PC System Requirements,update
+1091500,Cyberpunk 2077,2023-09,57259.74,Update 2.0; Cyberpunk 2077: Phantom Liberty,update; dlc
+1091500,Cyberpunk 2077,2023-12,48632.66,Update 2.1,update
+1091500,Cyberpunk 2077,2024-12,42891.48,Update 2.2 is live!; Take Your Shot in Photo Mode Challenge 3.0,update
+1091500,Cyberpunk 2077,2026-10,61557.25,Cyberpunk 2077's Edgerunners 2 Update (2.5) is out now!,update
+1245620,ELDEN RING,2022-03,522066.37,Issue Report: Steam Cloud Saves,update
+1245620,ELDEN RING,2024-05,44657.44,Shadow of the Erdtree Language Update,update
+1245620,ELDEN RING,2024-06,219194.74,Release schedule of ELDEN RING Shadow of the Erdtree & PC specifications update; ELDEN RING Shadow of the Erdtree Premium Bundle; ELDEN RING Shadow of the Erdtree,update; dlc
+1245620,ELDEN RING,2025-12,27400.47,Release Note for 2025/12/16,update
+1245620,ELDEN RING,2026-08,28638.15,ELDEN RING Tarnished Pack,dlc
+582010,Monster Hunter: World,2018-08,188291.24,Status Update: Connection Error Issues; Untitled; Status Update: Connection Error Issues; Untitled; 8/31 Status Update: Connection Error Issues; Monster Hunter: World Original Soundtrack; Monster Hunter: World - Additional Gesture Bundle 1; Monster Hunter: World - Hairstyle: Provisions Manager; Monster Hunter: World - Hairstyle: Field Team Leader; Monster Hunter: World - The Handler's Guildmarm Costume; Monster Hunter: World - Deluxe Kit,update; dlc
+582010,Monster Hunter: World,2018-09,88575.17,"Status Update - Mouse Control Improvements; Status Update - Mouse Control Improvements, other changes; Title Update: Autumn Harvest Fest, bug fixes; Monster Hunter: World - The Handler's Astera 3 Star Chef Coat",update; dlc
+582010,Monster Hunter: World,2018-10,41395.45,"Title Update (4): Localization Bug Fixes; Title Update (3): Bug Fixes, other changes; Title Update (2): Combat Bug Fixes; Title Update (1): Major Additions; Details on Upcoming Updates; Title Update: Kulve Taroth Siege available from November 2nd!; (2) Title Update: Bug Fixes, Localization Bug Fixes; (1) Title Update: Major Additions and Changes; Monster Hunter: World - The Handler's Mischievous Dress; Monster Hunter: World - Hairstyle: The Handler; Monster Hunter: World - Hairstyle: The Admiral; Monster Hunter: World - Free Character Edit Voucher; Monster Hunter: World - Sticker Set: Mega Man Set; Monster Hunter: World - Character Edit Voucher: Single Voucher; Monster Hunter: World - Character Edit Voucher: Two-Voucher Pack; Monster Hunter: World - Character Edit Voucher: Three-Voucher Pack",update; dlc
+582010,Monster Hunter: World,2018-11,34336.66,"Status Update: Concerning Connection Errors; Status Update: Regarding the Recent Connection Errors; Title Update: Lunastra arrives on November 22!; (3) Title Update: Combat Bug Fixes, Localization Bug Fixes; (2) Title Update: Bug Fixes; (1) Title Update: Major Additions and Changes; Monster Hunter: World - The Handler's Winter Spirit Coat; Monster Hunter: World - Free Sticker Set: Mingle Hunter",update; dlc
+582010,Monster Hunter: World,2018-12,37970.69,Title Update: Behemoth arrives from another world on December 21!; Title Update: Major Additions and Bug Fixes,update
+582010,Monster Hunter: World,2019-01,42307.88,Title Update: New Features Added On January 22!; (3) Title Update: Localization Bug Fixes 【3/3】; (2) Title Update: Bug Fixes 【2/3】; (1) Title Update: New Features and Changes 【1/3】; Notice Regarding a Bug in Title Update Ver. 5.1; Status Update: Sound Effect Bugs Fixed; Notice Regarding Bug Fixes in Title Update Ver. 5.1; Notice Regarding a Bug in Title Update Ver. 5.1; Monster Hunter: World - Free Gesture: Happy Hunting!; Monster Hunter: World - The Handler's Friendly Felyne Costume,update; dlc
+582010,Monster Hunter: World,2019-02,30445.04,Update Regarding a Bug in Title Update Ver. 5.1,update
+582010,Monster Hunter: World,2019-03,16683.53,Title Update: New Features Coming On April 4!,update
+582010,Monster Hunter: World,2019-04,19642.64,(1) Title Update: New Features Coming On April 4!; (2) Title Update: New Features Coming On April 4!; Title Update 6: Space requirements for May 9 update; Monster Hunter: World - High Resolution Texture Pack; Monster Hunter: World - The Handler's Busy Bee Dress,update; dlc
+582010,Monster Hunter: World,2019-05,24706.77,Title Update: Major Additions and Bug Fixes from the May 9 Update; Update: Notice Regarding Recent Bugs,update
+582010,Monster Hunter: World,2019-07,38048.77,Title Update: Major Additions and Bug Fixes from the July 18 Update; Title Update: Major Additions and Bug Fixes from the July 18 Update,update
+582010,Monster Hunter: World,2019-08,35779.93,Monster Hunter: World - The Handler's Sunshine Pareo,dlc
+582010,Monster Hunter: World,2019-10,30940.29,Update Info; Update Info,update
+582010,Monster Hunter: World,2019-12,30498.98,Title Update Information,update
+582010,Monster Hunter: World,2020-01,113236.24,Performance Issue Occurring under Certain Conditions; About Future Title Updates; Troubleshooting for Performance Drops Affecting Some Users; Title Update 1; Monster Hunter World: Iceborne; Monster Hunter World: Iceborne Deluxe Kit; Monster Hunter: World - Character & Palico Edit Voucher: Single Voucher; Monster Hunter: World - Character & Palico Edit Voucher: Two-Voucher Pack; Monster Hunter: World - Character & Palico Edit Voucher: Three-Voucher Pack; Monster Hunter: World - Palico Edit Voucher: Single Voucher,update; dlc
+582010,Monster Hunter: World,2020-02,106811.93,VU11.50.00 — Crash Issues for Some AMD Graphics Card Users,update
+582010,Monster Hunter: World,2020-03,78026.05,*Updated* Title Update 2; *Updated*Game Launch Issues after Updating to Ver. 12.11.00; About Future Title Updates,update
+582010,Monster Hunter: World,2020-04,64197.78,"Title Update 3; Monster Hunter World: Iceborne Title Update 3 - New Variant Monsters and More; Spring Is in Season for Monster Hunter World: Iceborne's ""Full Bloom Fest""; Title Update Information",update
+582010,Monster Hunter: World,2020-07,48079.8,Title Update 4; Monster Hunter World: Iceborne Title Update 4 brings Alatreon and much more!,update
+582010,Monster Hunter: World,2020-08,33785.62,Title Update 5,update
+582010,Monster Hunter: World,2023-11,21674.9,Bug Fix Notice,update
+582010,Monster Hunter: World,2025-12,12416.52,UPDATE - Postponed: Monster Hunter Showcase coming Dec. 8 at 10 p.m. UTC!,update
+1142710,Total War: WARHAMMER III,2022-02,77527.68,Total War: WARHAMMER III - Ogre Kingdoms,dlc
+1142710,Total War: WARHAMMER III,2022-04,9967.86,Total War: WARHAMMER III - Update 1.1.0,update
+1142710,Total War: WARHAMMER III,2022-05,5838.15,Total War: WARHAMMER III - Update 1.2.0,update
+1142710,Total War: WARHAMMER III,2022-06,4785.98,Total War: WARHAMMER III - Update 1.3.0,update
+1142710,Total War: WARHAMMER III,2022-07,6711.3,Total War: WARHAMMER III – Immortal Empires Race Updates,update
+1142710,Total War: WARHAMMER III,2022-08,25432.14,Total War: WARHAMMER III - Update 2.0.0; Total War: WARHAMMER III - Champions of Chaos; Total War: WARHAMMER III - Blood for the Blood God III,update; dlc
+1142710,Total War: WARHAMMER III,2022-09,42289.72,Total War: WARHAMMER III - Update 2.1.0,update
+1142710,Total War: WARHAMMER III,2022-10,25963.32,"Update 2.0, 2.1, 2.1.1, and 2.1.2: now available on macOS!; Total War: WARHAMMER III - Update 2.2.0",update
+1142710,Total War: WARHAMMER III,2022-11,19015.95,Total War: WARHAMMER III - Update 2.3.0,update
+1142710,Total War: WARHAMMER III,2022-12,17902.29,Total War: WARHAMMER III Update 2.3 on Linux and MacOS,update
+1142710,Total War: WARHAMMER III,2023-02,20460.29,Total War: WARHAMMER III - Update 2.4.0,update
+1142710,Total War: WARHAMMER III,2023-03,25237.99,Total War: WARHAMMER III Update 2.4 now available on Linux & macOS,update
+1142710,Total War: WARHAMMER III,2023-04,31262.99,Total War: WARHAMMER III - Update 3.0; Total War: WARHAMMER III - Forge of the Chaos Dwarfs,update; dlc
+1142710,Total War: WARHAMMER III,2023-05,21753.66,Total War: WARHAMMER III - Update 3.1.0,update
+1142710,Total War: WARHAMMER III,2023-06,17996.91,Total War: WARHAMMER III Update 3.0 now available on macOS; Total War: WARHAMMER III Update 3.1 now available on macOS & Linux,update
+1142710,Total War: WARHAMMER III,2023-08,15459.46,Total War: WARHAMMER III - Update 4.0; Shadows of Change and Update 4.0 are out now!,update
+1142710,Total War: WARHAMMER III,2024-04,20488.09,Total War: WARHAMMER III - Elspeth – Thrones of Decay; Total War: WARHAMMER III - Malakai – Thrones of Decay; Total War: WARHAMMER III - Tamurkhan – Thrones of Decay,dlc
+1142710,Total War: WARHAMMER III,2024-12,27189.75,Total War: WARHAMMER III - Gorbad – Omens of Destruction; Total War: WARHAMMER III - Golgfag – Omens of Destruction; Total War: WARHAMMER III - Skulltaker – Omens of Destruction,dlc
+1142710,Total War: WARHAMMER III,2025-03,20783.64,Total War: WARHAMMER III - The Changeling – Shadows of Change; Total War: WARHAMMER III - Yuan Bo – Shadows of Change; Total War: WARHAMMER III - Mother Ostankya – Shadows of Change,dlc
+1142710,Total War: WARHAMMER III,2025-07,22360.97,Tides of Torment - Release Update,update
+1142710,Total War: WARHAMMER III,2025-10,20665.22,An Update on Unit Recruitment Issues,update
+1142710,Total War: WARHAMMER III,2025-12,34996.78,Total War: WARHAMMER III - UPGRADE PACK; Total War: WARHAMMER III - Sayl – Tides of Torment; Total War: WARHAMMER III - Aislinn – Tides of Torment; Total War: WARHAMMER III - Dechala – Tides of Torment,dlc
+1142710,Total War: WARHAMMER III,2026-04,19278.74,Mod Manager Update,update
+1142710,Total War: WARHAMMER III,2026-05,23238.56,Total War: WARHAMMER III - Bhashiva – Character Pack; Total War: WARHAMMER III - Original Soundtrack,dlc
+1142710,Total War: WARHAMMER III,2026-08,27221.1,New Dwarf music coming with Update 9.0,update
+1142710,Total War: WARHAMMER III,2026-09,33473.69,Total War: WARHAMMER III - Nagash – Lords of the End Times; Total War: WARHAMMER III - Thanquol – Lords of the End Times; Total War: WARHAMMER III - Boris Todbringer – Lords of the End Times; Total War: WARHAMMER III - The Glottkin – Lords of the End Times,dlc
+1151340,Fallout 76,2020-04,15807.5,"Fallout 76: Wastelanders Update Notes – April 14, 2020",update
+1151340,Fallout 76,2020-11,6679.08,"Fallout 76: Steel Dawn Update Notes – November 24, 2020",update
+1151340,Fallout 76,2020-12,7044.36,"Fallout 76: Scribe of Avalon Update Notes – December 15, 2020",update
+1151340,Fallout 76,2021-01,7376.66,"Fallout 76: Inventory Update Notes – January 26, 2021",update
+1151340,Fallout 76,2021-04,4159.47,"Fallout 76: Locked and Loaded Update Notes – April 27, 2021",update
+1151340,Fallout 76,2021-05,5145.55,"Fallout 76 Update Notes – May 25, 2021",update
+1151340,Fallout 76,2021-07,8993.19,"Fallout 76 Update Notes – July 7, 2021",update
+1151340,Fallout 76,2021-08,8752.1,"Fallout 76 Update Notes – August 3, 2021",update
+1151340,Fallout 76,2021-09,7237.26,"Fallout 76: Fallout Worlds Update Notes – September 8, 2021",update
+1151340,Fallout 76,2021-10,7224.55,"Fallout 76 Update Notes – October 19, 2021",update
+1151340,Fallout 76,2021-12,6570.2,"Fallout 76: Night of the Moth Update Notes – December 8, 2021",update
+1151340,Fallout 76,2022-03,5073.81,"Fallout 76 Update Notes – March 1, 2022",update
+1151340,Fallout 76,2022-04,4605.17,"Fallout 76 Update Notes – April 12, 2022",update
+1151340,Fallout 76,2022-07,7514.58,"FALLOUT 76 UPDATE NOTES – JULY 26, 2022",update
+1151340,Fallout 76,2022-09,7605.22,"FALLOUT 76 - VISIT “THE CITY OF STEEL” DURING SEASON 10; ENTER THE PITT: FALLOUT 76’S EXPEDITIONS UPDATE IS LIVE!; Fallout 76: The Pitt Update Notes – September 13, 2022",update
+1151340,Fallout 76,2022-10,9750.73,"Fallout 76 Update Notes – October 25, 2022",update
+1151340,Fallout 76,2022-12,8448.3,"Fallout 76 Nuka-World on Tour Update Notes – December 6, 2022; Unbottle Nuka-World-themed rewards in Fallout 76’s latest Season!",update
+1151340,Fallout 76,2023-01,8717.87,"Fallout 76 Update Notes – January 24, 2023",update
+1151340,Fallout 76,2023-02,8200.04,Season 12: Rip Daring and the Cryptid Hunt is live now!; Mutation Invasion Update Notes,update
+1151340,Fallout 76,2023-04,7078.81,"Fallout 76 Update Notes - April 18, 2023",update
+1151340,Fallout 76,2023-06,5669.95,SEASON PREVIEW: Season 13: Shoot for the Stars; Season 13: Shoot for the Stars; Once in a Blue Moon Update is here!,update
+1151340,Fallout 76,2023-07,8492.18,"Fallout 76 Update Notes: July 18, 2023",update
+1151340,Fallout 76,2023-08,7753.72,"Fallout 76 Update Notes – August 22, 2023",update
+1151340,Fallout 76,2023-11,7133.59,GET READY FOR FALLOUT 76’S UPCOMING SEASON: THE BIG SCORE!,update
+1151340,Fallout 76,2023-12,8340.41,Atlantic City - Boardwalk Paradise Update Notes,update
+1151340,Fallout 76,2024-01,7692.16,"FALLOUT 76 UPDATE NOTES – JANUARY 30, 2024",update
+1151340,Fallout 76,2024-04,25763.72,"FALLOUT 76 UPDATE NOTES – APRIL 30, 2024",update
+1151340,Fallout 76,2024-07,13174.04,"Fallout 76 Update Notes – July 23, 2024",update
+1151340,Fallout 76,2024-08,8788.76,Inside the Vault – Update on Legendary Cores; Season 18: Milepost Zero – Country Road,update
+1151340,Fallout 76,2024-10,7740.13,"Fallout 76 Update Notes – October 22, 2024",update
+1151340,Fallout 76,2024-11,7254.18,"Season 19 and Gleaming Depths coming December 3, 2024!",update
+1151340,Fallout 76,2025-01,7890.91,"Fallout 76 Update Notes – January 21, 2025",update
+1151340,Fallout 76,2025-03,8053.92,Season 20: Glow of the Ghoul,update
+1151340,Fallout 76,2025-04,8026.09,"Appalachian Outlaws Mini Season; Fallout 76 Update Notes – April 22, 2024",update
+1151340,Fallout 76,2025-07,6950.99,"Fallout 76 Update Notes – July 22, 2025; Atomic Shop Monthly Update: July 2025",update
+1151340,Fallout 76,2025-08,7875.67,Get Ready for Fallout 76’s Most Decorative Season & Update,update
+1151340,Fallout 76,2025-10,9095.2,"Preview the Next Major Update to Fallout 76; Fallout 76 Update Notes – October 21, 2025",update
+1151340,Fallout 76,2025-11,8137.02,Prepare for Blood x Rust in Fallout 76’s upcoming new Season,update
+1151340,Fallout 76,2025-12,13309.65,"Burning Springs Update - December 11, 2025; Fallout 76: Burning Springs Starter Bundle",update; dlc
+1151340,Fallout 76,2026-01,17415.67,"Fallout 76 Update Notes – January 20, 2026; Upcoming Update Announcement; Fallout 76: Mojave Bundle",update; dlc
+1151340,Fallout 76,2026-02,18046.04,"Raiders & romance collide in Fallout 76’s latest Mini Season!; Fallout 76 Update Notes – February 9, 2026; Fallout 76 Delves into The Backwoods for its Next Free Update on March 3; A new, out-of-this-world Season lands onto Fallout 76 next week!",update
+1151340,Fallout 76,2026-03,12460.25,"Fallout 76 Update Notes – March 17, 2026",update
+1151340,Fallout 76,2026-04,7962.1,"Fallout 76 Update Notes – April 21, 2026",update
+1151340,Fallout 76,2026-05,6016.72,Appalachia is Under Siege in Fallout 76’s Newest Season!,update
+1151340,Fallout 76,2026-06,6964.03,Upcoming Changes to Season Rewards; Upcoming Update Announcement; Fallout 76 - Deathclaw Pet Bundle,update; dlc
+1151340,Fallout 76,2026-07,6101.17,"Fallout 76 Update Notes - July 21, 2026",update
+1151340,Fallout 76,2026-09,6530.79,Pint-Sized Terror Stalks Appalachia in The Slasher Update,update
+1151340,Fallout 76,2026-10,7550.06,Fallout 76 Update Notes - October 1,update
+381210,Dead by Daylight,2016-07,13338.93,Update 1.0.4,update
+381210,Dead by Daylight,2016-08,15832.73,"Update 1.0.5 is live!; New season is starting now!; Dead by Daylight - The Last Breath Chapter, Day 1; Dead by Daylight - The Last Breath Chapter, Day 2; ""New Chapter: The last breath"" is out!; Dead by Daylight - The Last Breath Chapter, Day 3",update
+381210,Dead by Daylight,2016-09,12861.78,Update 1.1.2 is now live!,update
+381210,Dead by Daylight,2016-10,12324.01,Next Chapter is... ?; Update 1.2.0 is now live!; Dead by Daylight - The HALLOWEEN® Chapter; Updates 1.2.0 & 1.2.1,update
+381210,Dead by Daylight,2017-03,9554.36,NEW! Dead by Daylight: Left Behind update Available NOW!,update
+381210,Dead by Daylight,2017-05,8921.47,New Dead by Daylight: SPARK OF MADNESS Chapter,update
+381210,Dead by Daylight,2017-06,9956.68,''Break stuff'' update; “CAT & MOUSE” update; ''Break stuff'' update (ALMOST THERE!); ''Break stuff'' update; Get a Grip UPDATE!; CAT AND MOUSE UPDATE; Get a grip! Update; Get a Grip UPDATE!; Survival of the fittest UPDATE; Challenge UPDATE; Survival of the fittest UPDATE,update
+381210,Dead by Daylight,2017-08,12362.26,Doctor update is live!,update
+381210,Dead by Daylight,2017-10,14883.44,Dead by Daylight - A Nightmare on Elm Street™,dlc
+381210,Dead by Daylight,2018-07,22148.94,THE MID-CHAPTER 2.1.0 UPDATE IS LIVE!,update
+381210,Dead by Daylight,2018-09,21889.9,The Shattered Bloodline Chapter is now available!,update
+381210,Dead by Daylight,2019-03,16380.76,The Demise of the Faithful chapter is now available!,update
+381210,Dead by Daylight,2019-04,16960.01,The Ash vs Evil Dead chapter is now available; Dead by Daylight - Ash vs Evil Dead,update; dlc
+381210,Dead by Daylight,2019-05,20564.66,2.7.0 Mid-Chapter Update is now Live!,update
+381210,Dead by Daylight,2019-09,23458.77,Dead by Daylight | Stranger Things Chapter - Information release date; Stranger Things DLC & 3.2.0 Update: Out now!; Dead by Daylight - Stranger Things Chapter,update; dlc
+381210,Dead by Daylight,2019-10,20384.08,Mid-Chapter update release information,update
+381210,Dead by Daylight,2019-12,23102.8,The Cursed Legacy - 3.4.0 Release information,update
+381210,Dead by Daylight,2020-03,30347.14,The Chains of Hate chapter is now Available on PC and consoles,update
+381210,Dead by Daylight,2020-04,32392.67,3.7.0 MID-CHAPTER | RELEASE INFORMATION,update
+381210,Dead by Daylight,2020-07,40537.08,RELEASE INFORMATION | 4.1.0,update
+381210,Dead by Daylight,2020-08,40148.29,Release information | 4.1.1,update
+381210,Dead by Daylight,2020-10,33472.92,RELEASE INFORMATION | Mid-Chapter 4.3.0,update
+381210,Dead by Daylight,2021-02,35348.46,Mid-Chapter 4.5.0 - Release information,update
+381210,Dead by Daylight,2021-04,37867.2,Resident Evil Chapter Announcement,update
+381210,Dead by Daylight,2021-05,40602.49,Release Information | 4.7.0; The Resident Evil Chapter is Coming June 15,update
+381210,Dead by Daylight,2021-06,48768.51,Dead by Daylight - Resident Evil Chapter; Dead by Daylight - Escape Expansion Pack; Dead by Daylight - Terror Expansion Pack,dlc
+381210,Dead by Daylight,2021-11,44958.69,The Portrait of a Murder Chapter is now available.,update
+381210,Dead by Daylight,2022-03,34394.78,Dead by Daylight - Sadako Rising Chapter,dlc
+381210,Dead by Daylight,2022-04,29948.12,Release Information | 5.7.0,update
+381210,Dead by Daylight,2022-07,36959.03,6.1.0 | Mid-Chapter,update
+381210,Dead by Daylight,2022-08,35649.22,6.2.0 | Resident Evil: PROJECT W; Dead by Daylight - Resident Evil: PROJECT W Chapter,update; dlc
+381210,Dead by Daylight,2022-09,37925.41,News | Update on Cheating,update
+381210,Dead by Daylight,2022-10,38071.81,Dead by Daylight Welcomes The Season of Fear!; 6.3.0 | Mid-Chapter,update
+381210,Dead by Daylight,2022-11,33591.92,6.4.0 | Forged in Fog,update
+381210,Dead by Daylight,2023-01,33615.29,6.5.0 | Mid-Chapter,update
+381210,Dead by Daylight,2023-03,32927.41,6.6.0 | Tools of Torment,update
+381210,Dead by Daylight,2023-04,30061.53,6.7.0 | Mid-Chapter,update
+381210,Dead by Daylight,2023-06,40113.19,7.0.0 | End Transmission; Dead by Daylight - End Transmission Chapter,update; dlc
+381210,Dead by Daylight,2023-07,41152.51,7.1.0 | Nicolas Cage; Dead by Daylight - Nicolas Cage Chapter Pack,update; dlc
+381210,Dead by Daylight,2023-08,36085.09,7.2.0 | Alien; Dead by Daylight - Alien Chapter Pack,update; dlc
+381210,Dead by Daylight,2023-10,31097.75,Update 7.3.0 | Mid-Chapter,update
+381210,Dead by Daylight,2023-11,32637.87,Update 7.4.0 | Chucky; Dead by Daylight - Chucky Chapter,update; dlc
+381210,Dead by Daylight,2024-01,28344.06,Update 7.5.0 | Alan Wake; Dead by Daylight - Maddening Darkness Pack; Dead by Daylight - Old Wounds Pack; Dead by Daylight - Macabre Tales Pack; Dead by Daylight - Alan Wake Chapter,update; dlc
+381210,Dead by Daylight,2024-03,42282.84,Update 7.6.0 | All Things Wicked; Dead by Daylight - All Things Wicked Chapter,update; dlc
+381210,Dead by Daylight,2024-04,33046.27,Update 7.7.0 | Mid-Chapter,update
+381210,Dead by Daylight,2024-05,35825.37,Dead by Daylight - Endless Hunt Pack,dlc
+381210,Dead by Daylight,2024-06,44806.11,8.0.0 | Dungeons & Dragons; Dead by Daylight - Dungeons & Dragons,update; dlc
+381210,Dead by Daylight,2024-07,40645.2,8.1.0 | Tomb Raider; Dead by Daylight - Tomb Raider Chapter,update; dlc
+381210,Dead by Daylight,2024-08,40879.61,8.2.0 | Castlevania; Dead by Daylight - Castlevania Chapter,update; dlc
+381210,Dead by Daylight,2024-10,39697.1,8.3.0 | Mid-Chapter,update
+381210,Dead by Daylight,2024-11,38567.86,8.4.0 | Doomed Course; Dead by Daylight - Doomed Course,update; dlc
+381210,Dead by Daylight,2025-01,30521.87,8.5.0 | Mid-chapter,update
+381210,Dead by Daylight,2025-03,31725.69,Design Preview | Future Plans + Update on The Trickster,update
+381210,Dead by Daylight,2025-04,41449.36,8.6.0 | Tokyo Ghoul; Dead by Daylight - Tokyo Ghoul,update; dlc
+381210,Dead by Daylight,2025-05,42186.57,8.7.0 | Steady Pulse; Dead by Daylight - Steady Pulse,update; dlc
+381210,Dead by Daylight,2025-06,56489.89,9.0.0 | Five Nights at Freddy's; Dead by Daylight: Five Nights at Freddy’s,update; dlc
+381210,Dead by Daylight,2025-07,63536.57,CHU Sainte-Justine Foundation's Grow Beyond campaign update; 9.1.0 | The Walking Dead; Dead by Daylight: The Walking Dead,update; dlc
+381210,Dead by Daylight,2025-09,47389.1,9.2.0 | Sinister Grace; Dead by Daylight - Sinister Grace,update; dlc
+381210,Dead by Daylight,2025-11,47079.88,9.3.0 | Mid-Chapter,update
+381210,Dead by Daylight,2026-01,49287.7,9.4.0 | Stranger Things Chapter 2; Dead by Daylight: Stranger Things Chapter 2,update; dlc
+381210,Dead by Daylight,2026-02,55296.41,Grimms Update,update
+381210,Dead by Daylight,2026-03,46223.03,Grimoire Update: Prototype Deep Dive; 9.5.0 | All-Kill: Comeback; Grimoire Update: Prototype Wrap Up,update
+381210,Dead by Daylight,2026-04,49103.75,A Match Details Sneak Peek Ahead of Tomorrow's Update,update
+381210,Dead by Daylight,2026-05,51050.78,Update on the Grimoire,update
+381210,Dead by Daylight,2026-06,71077.0,Dead by Daylight: Jason,dlc
+381210,Dead by Daylight,2026-08,57800.18,10.1.0 | Chorus of Sin; Dead by Daylight: Chorus of Sin,update; dlc
+381210,Dead by Daylight,2026-09,47609.97,Denuvo Anti Cheat Trial Update,update
+381210,Dead by Daylight,2026-10,47883.85,10.2.0 | Mid-Chapter,update
+1085660,Destiny 2,2019-10,165307.82,Destiny 2: Shadowkeep Pack; Destiny 2: Forsaken Pack,dlc
+1085660,Destiny 2,2020-11,99899.97,Season of the Hunt; All New Raid - Deep Stone Crypt; Destiny 2: Beyond Light Pack,update; dlc
+1085660,Destiny 2,2021-02,59394.05,Season of the Chosen,update
+1085660,Destiny 2,2021-05,70137.75,Season of the Splicer; Destiny 2: Throne of Atheon Emote Bundle,update; dlc
+1085660,Destiny 2,2021-08,57238.51,Season of the Lost,update
+1085660,Destiny 2,2021-12,61768.45,Destiny 2: Bungie 30th Anniversary Pack; Destiny 2: Triumphant Silver Bundle,dlc
+1085660,Destiny 2,2022-02,75169.64,Season of the Risen; Destiny 2: The Witch Queen,update; dlc
+1085660,Destiny 2,2022-05,66961.36,Destiny 2: Season of the Haunted,update
+1085660,Destiny 2,2022-08,68548.83,Destiny 2: Season of Plunder,update
+1085660,Destiny 2,2022-12,62138.13,Destiny 2: Season of the Seraph,update
+1085660,Destiny 2,2023-02,72137.44,Destiny 2: Season of Defiance; Destiny 2: Lightfall,update; dlc
+1085660,Destiny 2,2023-05,78633.18,Destiny 2: Season of the Deep,update
+1085660,Destiny 2,2023-08,48823.35,Destiny 2: Season of the Witch,update
+1085660,Destiny 2,2023-11,33486.36,Destiny 2: Season of the Wish | Geralt of Rivia x Destiny; Destiny 2: Season of the Wish Awaits,update
+1085660,Destiny 2,2024-02,32567.04,Destiny 2: Season of the Wish | Normandy Crew x Destiny,update
+1085660,Destiny 2,2024-05,72526.73,Destiny 2 | Expansion Open Access,update
+1085660,Destiny 2,2024-06,123022.96,Destiny 2: The Final Shape,dlc
+1085660,Destiny 2,2024-10,36169.31,Expansion Open Access,update
+1085660,Destiny 2,2025-07,41220.28,Destiny 2: The Edge of Fate,dlc
+1085660,Destiny 2,2025-12,29833.75,Destiny 2: Renegades,dlc
+1085660,Destiny 2,2026-06,67398.67,Destiny 2: Monument of Triumph Update; Destiny 2: Dungeon Key Pack,update; dlc
+632360,Risk of Rain 2,2020-08,25249.95,"Early Access Content Update 5 – August 11, 2020; Risk of Rain 2 Soundtrack",update; dlc
+632360,Risk of Rain 2,2021-03,9857.61,"Risk of Rain 2 - Anniversary Update - March 25, 2021",update
+632360,Risk of Rain 2,2022-03,28154.67,Risk of Rain 2: Survivors of the Void; Risk of Rain 2: Survivors of the Void - Soundtrack,dlc
+632360,Risk of Rain 2,2024-08,10931.47,Seekers of the Storm Steam Regional Pricing Update; Risk of Rain 2: Seekers of the Storm; Risk of Rain 2: Seekers of the Storm - Soundtrack,update; dlc
+632360,Risk of Rain 2,2024-09,14032.71,Seekers of the Storm – Minor Update Follow-up,update
+632360,Risk of Rain 2,2024-11,6309.09,V1.3.5 Bug Fix Update,update
+632360,Risk of Rain 2,2024-12,6865.68,Update Notes V1.3.6,update
+632360,Risk of Rain 2,2025-03,6343.45,Update Notes V1.3.7,update
+632360,Risk of Rain 2,2025-05,10521.08,Seekers of the Storm - 2.0 Relaunch - Survivor Revamp & Future Plans; Update Notes V1.3.8,update
+632360,Risk of Rain 2,2025-06,7151.16,Memory Optimization Update Notes V1.3.9,update
+632360,Risk of Rain 2,2025-08,6989.88,Risk of Rain Returns... returns! (V1.1.0),update
+632360,Risk of Rain 2,2025-11,16986.05,Risk of Rain 2: Alloyed Collective,dlc
+632360,Risk of Rain 2,2026-02,6943.52,Steamdeck Controls Update,update
+632360,Risk of Rain 2,2026-10,16940.11,Risk of Rain 2: Hallowed Concepts,dlc
+1282100,Remnant II,2023-09,5389.35,Major quality of life improvements update - 09.07.23,update
+1282100,Remnant II,2023-10,4079.69,Major quality of life improvements update - 10.26.23,update
+1282100,Remnant II,2023-11,8701.65,Remnant II® - The Awakened King,dlc
+1282100,Remnant II,2024-01,4779.94,Potential Crash fix.; Crash Fix; CL 402459,update
+1282100,Remnant II,2024-02,2174.31,Remnant II Crossplay Update,update
+1282100,Remnant II,2024-04,3771.18,Remnant II® - The Forgotten Kingdom,dlc
+1282100,Remnant II,2024-09,3572.09,Remnant II® - The Dark Horizon,dlc
+2050650,Resident Evil 4,2023-04,34990.85,Resident Evil 4 - The Mercenaries; Resident Evil 4 Weapon Exclusive Upgrade Ticket x1 (A); Resident Evil 4 Weapon Exclusive Upgrade Ticket x1 (B); Resident Evil 4 Weapon Exclusive Upgrade Ticket x1 (C); Resident Evil 4 Weapon Exclusive Upgrade Ticket x1 (D); Resident Evil 4 Weapon Exclusive Upgrade Ticket x1 (E); Resident Evil 4 Weapon Exclusive Upgrade Ticket x1 (F); Resident Evil 4 Weapon Exclusive Upgrade Ticket x3 (A); Resident Evil 4 Weapon Exclusive Upgrade Ticket x3 (B); Resident Evil 4 Weapon Exclusive Upgrade Ticket x3 (C); Resident Evil 4 Weapon Exclusive Upgrade Ticket x3 (D); Resident Evil 4 Weapon Exclusive Upgrade Ticket x5 (A),dlc
+2050650,Resident Evil 4,2023-06,3654.67,Resident Evil 4 Attaché Case: 'Gold'; Resident Evil 4 Attaché Case: 'Classic'; Resident Evil 4 Charm: 'Handgun Ammo'; Resident Evil 4 Charm: 'Green Herb',dlc
+2050650,Resident Evil 4,2023-09,9431.8,"The RE4 DLC ""Separate Ways"" launches 9/21! A free update is also coming!; Resident Evil 4 - Separate Ways; Resident Evil 4 Original Soundtrack",update; dlc
+553850,HELLDIVERS 2,2024-02,274304.38,01.000.004,update
+553850,HELLDIVERS 2,2024-04,142853.62,HELLDIVERS 2: Explosive New Warbond!,update
+553850,HELLDIVERS 2,2024-05,65221.4,Thrill and chill with the new HELLDIVERS 2 Warbond; HELLDIVERS™ 2 Account Linking Update,update
+553850,HELLDIVERS 2,2024-07,23928.28,Let the flames of freedom burn bright with new Helldivers 2 Warbond on 8 August.,update
+553850,HELLDIVERS 2,2024-09,25885.31,60 Day Timeline - Progress Update,update
+553850,HELLDIVERS 2,2024-10,30407.27,60 Day Timeline Conclusion Update; Helldivers 2 is launching Truth Enforcers Warbond on October 31st!,update
+553850,HELLDIVERS 2,2024-12,56734.54,New Warbond dropping into HELLDIVERS 2 today!; A Helldivers x Killzone Update: Season's Greetings,update
+553850,HELLDIVERS 2,2025-02,53276.32,01.002.105,update
+553850,HELLDIVERS 2,2025-03,38521.25,It’s high noon in Helldivers 2 with the new Borderline Justice Warbond!,update
+553850,HELLDIVERS 2,2025-07,37951.75,Warbond Token Announcement; Helldivers 2 Control Group Warbond launches July 17!,update
+553850,HELLDIVERS 2,2025-08,40433.48,The long-awaited HELLDIVERS™ 2 x HALO: ODST Legendary Warbond arrives August 26,update
+553850,HELLDIVERS 2,2025-09,68412.3,State of the Game Update #1,update
+553850,HELLDIVERS 2,2025-10,29525.67,Into the Unjust: 4.1.0,update
+553850,HELLDIVERS 2,2025-11,22073.53,Into the Unjust: 4.1.1; Into the Unjust: 4.1.2; Python Commandos Premium Warbond airdrops into the jungle on December 2!,update
+553850,HELLDIVERS 2,2025-12,34475.01,Into the Unjust: 5.0.0; The HELLDIVERS™ 2 x Killzone items return as a Legendary Warbond December 18th,update
+553850,HELLDIVERS 2,2026-01,33874.63,Into the Unjust: 5.0.2,update
+553850,HELLDIVERS 2,2026-02,76473.83,Machinery of Oppression 6.0.3,update
+553850,HELLDIVERS 2,2026-03,47917.25,Machinery of Oppression: 6.1.0; Machinery of Oppression: 6.1.1,update
+553850,HELLDIVERS 2,2026-04,35678.25,The Exo Experts Warbond lumbers onto the battlefield; Machinery of Oppression: 6.2.2,update
+553850,HELLDIVERS 2,2026-05,30661.29,Machinery of Oppression: 6.2.3; Machinery of Oppression: 6.2.4,update
+553850,HELLDIVERS 2,2026-06,25422.53,Machinery of Oppression: 6.2.6; Machinery of Oppression: 6.3.0,update
+553850,HELLDIVERS 2,2026-07,26750.49,"Machinery of Oppression: 6.3.1; HELLDIVERS™ 2 x Warhammer 40,000 Legendary Warbond arrives August 12th",update
+553850,HELLDIVERS 2,2026-10,39956.12,Line Up the Perfect Shot with the Scope of Authority Premium Warbond!,update
+2767030,Marvel Rivals,2025-01,306065.72,Marvel Rivals Version 20250110 Balance Post – Season 1 Begins!,update
+2767030,Marvel Rivals,2025-02,227999.59,Marvel Rivals Version 20250221 Balance Post - Season 1.5!,update
+2767030,Marvel Rivals,2025-06,79805.77,Update to NVIDIA Driver Version 576.80 to Significantly Reduce GPU Crashes,update
+2767030,Marvel Rivals,2025-08,77502.23,Frame Rate Drops with NVIDIA GeForce Driver Version 580.88; Game Client Freeze & GPU Crashes Fix Deployed,update
+2767030,Marvel Rivals,2025-09,64417.54,Marvel Rivals Season 4: Heart of the Dragon is Now Live,update
+2767030,Marvel Rivals,2026-04,70115.93,Marvel Rivals Version 20260417 Balance Post,update
+2767030,Marvel Rivals,2026-05,67588.02,Marvel Rivals - High-Resolution Pack,dlc
+2767030,Marvel Rivals,2026-07,84280.8,"New Hero, New Rules, New Rivals - Season 9 Arrives",update
+1174180,Red Dead Redemption 2,2024-11,25328.8,Celebrate Thanksgiving Season in Red Dead Online with Trader Bonuses,update
+1174180,Red Dead Redemption 2,2025-10,32641.83,Halloween Season Returns to Red Dead Online,update
+570,Dota 2,2013-11,348246.37,Three Spirits Update,update
+570,Dota 2,2014-04,421710.21,The Spring Cleaning Update,update
+570,Dota 2,2014-07,537018.66,Overflowing Compendium Update,update
+570,Dota 2,2014-09,477998.45,The Rekindling Soul Update,update
+570,Dota 2,2014-11,528789.8,The Foreseer’s Contract Update,update
+570,Dota 2,2015-09,508156.85,Gameplay Update 6.85 and More,update
+570,Dota 2,2015-10,521941.72,The Fall Season 2015 Compendium,update
+570,Dota 2,2015-12,573344.25,The Balance of Power Update,update
+570,Dota 2,2016-03,672554.89,The Spring Cleaning 2016 Update is Now Live,update
+570,Dota 2,2016-04,656944.37,New Gameplay Update,update
+570,Dota 2,2016-06,640226.98,"Dota 2 Update - June 10th, 2016; Manila Champions, TI Qualifiers and 6.88 Gameplay Update",update
+570,Dota 2,2016-07,638212.65,"Dota 2 Update - July 26th, 2016; The International Compendium Update",update
+570,Dota 2,2016-08,666013.05,The Dark Rift Update,update
+570,Dota 2,2016-11,584251.33,True Sight: Episode 2,update
+570,Dota 2,2016-12,593920.6,7.00 Update - The New Journey Begins,update
+570,Dota 2,2017-01,580281.47,In-Game Interface Update,update
+570,Dota 2,2017-02,591567.25,7.02 Gameplay Update,update
+570,Dota 2,2017-03,548435.44,The Bladeform Legacy Update,update
+570,Dota 2,2017-04,540278.03,Battle Cup Season Finale,update
+570,Dota 2,2017-05,567526.42,Client Performance Update,update
+570,Dota 2,2017-07,498444.38,The 2017 - 2018 Competitive Season,update
+570,Dota 2,2017-11,487381.24,7.07 Update — The Dueling Fates,update
+570,Dota 2,2018-04,430340.94,The Feast of Abscession Update,update
+570,Dota 2,2018-07,441714.35,The International Compendium Update; Dota Plus Summer Update,update
+570,Dota 2,2018-09,466470.74,Dota Plus End-of-Summer Update,update
+570,Dota 2,2019-04,520218.98,Update to Workshop Submission Process,update
+570,Dota 2,2019-07,464787.61,The International Compendium Update,update
+570,Dota 2,2019-08,467148.29,The Summer Scrub Part II,update
+570,Dota 2,2019-09,421971.24,Dota Plus Autumn Update,update
+570,Dota 2,2019-11,401931.8,The Outlanders Update,update
+570,Dota 2,2020-02,405978.65,The Dota 2 Official Soundtrack; The Dota 2 Remixes EP,dlc
+570,Dota 2,2020-03,437147.36,Gameplay Update 7.25,update
+570,Dota 2,2020-07,450213.99,Aghanims Labyrinth Gameplay Update; Aghanims Labyrinth General Update,update
+570,Dota 2,2020-11,425904.83,Diretide Gameplay Update 11/2/20,update
+570,Dota 2,2020-12,422552.32,Dota Plus Update - Winter 2020; The Mistwoods Update,update
+570,Dota 2,2021-01,432671.65,Ability Draft Update; The Dota Pro Circuit Winter 2021 Season,update
+570,Dota 2,2021-03,390412.76,Dota Plus Update – Spring 2021,update
+570,Dota 2,2021-04,413784.97,The Dawnbreaker & 7.29 Gameplay Update; Gameplay Update; Gameplay Update; Gameplay Update; Gameplay Update; DOTA: Dragon's Blood Season 2 / FREE TO PLAY on Netflix,update
+570,Dota 2,2021-05,415144.96,"Update to Dota Plus and Guilds; Supporter's Club; Dota 2 Update - May 18th, 2021; Supporter's Club; New Supporter's Clubs",update
+570,Dota 2,2021-06,421509.96,"Dota Plus Update - Summer 2021; An Important Update on TI10: The International - Dota 2 Championships in Sweden; Dota 2 Update - June 29th, 2021",update
+570,Dota 2,2021-07,423156.18,"Dota 2 Update - July 6th, 2021",update
+570,Dota 2,2021-08,424980.17,7.30 Gameplay Update,update
+570,Dota 2,2021-09,391082.08,Dota Plus Update - Fall 2021,update
+570,Dota 2,2021-11,448860.53,"Marci changes; Dota 2 Update - November 3rd, 2021; Dota 2 Update - November 15th, 2021; Dota2 Update November 23rd, 2021",update
+570,Dota 2,2021-12,449297.37,"Dota Plus Update - Winter 2021; Dota 2 Update - December 20th, 2021; Aghanim's Labyrinth: The Continuum Conundrum - Gameplay Update",update
+570,Dota 2,2022-01,485791.43,"Dota Pro Circuit 2021-2022 Winter Major Update; Aghanim's Labyrinth: The Continuum Conundrum - Gameplay Update; Aghanim's Collector's Cache, Labyrinth Update, & DOTA: Dragon's Blood Season 2",update
+570,Dota 2,2022-02,450200.14,The Primal Beast & 7.31 Gameplay Update; Gameplay Update,update
+570,Dota 2,2022-03,448723.6,"7.31b Gameplay Update; Dota Plus Update — Spring 2022; Dota 2 Update - March 11th, 2022; Spring Cleaning Update 2022",update
+570,Dota 2,2022-04,451826.77,The Stockholm Major Approaches,update
+570,Dota 2,2022-06,458143.51,The Battle Report Update; Dota 2 Update 6/28/2022; Dota 2 Update 6/29/2022; Dota 2 Update 6/30/2022,update
+570,Dota 2,2022-07,444594.56,Dota 2 Update - 7/6/2022; Dota 2 Update - 7/12/2022; Dota 2 Update - 7/18/2022,update
+570,Dota 2,2022-08,468466.87,Dota 2 Update - 8/3/2022; DOTA: Dragon's Blood Season 3 Released; 7.32 Gameplay Update; Dota 2 Update - 8/31/2022,update
+570,Dota 2,2022-09,490724.86,Battle Pass Update,update
+570,Dota 2,2022-10,456302.65,Dota 2 Update - 10/3/2022; Dota 2 Update - 10/5/2022,update
+570,Dota 2,2022-11,523684.06,Dota 2 Update - 11/15/2022,update
+570,Dota 2,2022-12,468545.02,Dota Plus Update — Winter 2022; Dota 2 Update - 12/6/2022; Dota 2 Update - 12/9/2022; Dota 2 Update - 12/22/2022,update
+570,Dota 2,2023-01,428296.61,Dota 2 Update — 1/11/2023,update
+570,Dota 2,2023-02,401847.04,Gameplay Update,update
+570,Dota 2,2023-03,418744.49,The Dead Reckoning Update; Dota 2 Update - 3/15/2023; Dota 2 Update - 3/17/2023,update
+570,Dota 2,2023-04,429226.47,The New Frontiers Update is Here,update
+570,Dota 2,2023-05,433220.69,Dota 2 Update - 5/16/2023; Dota 2 Update - 5/30/2023,update
+570,Dota 2,2023-06,421336.42,Dota Plus Update — Summer 2023,update
+570,Dota 2,2023-08,444319.24,Dota 2 Update - 8/9/2023; Dota 2 Update - 8/11/2023; The Summer Client Update,update
+570,Dota 2,2023-09,437273.4,Dota 2 Update - 9/1/2023; The International 2023 Celebration Update,update
+570,Dota 2,2023-10,435620.98,Dota 2 Update - 10/12/2023,update
+570,Dota 2,2023-11,433727.63,Gameplay Update 7.34e and What’s Up Next,update
+570,Dota 2,2023-12,435517.65,The Frostivus 2023 Update is Here!; Dota 2 Update - 12/14/2023; Dota 2 Update - 12/18/2023,update
+570,Dota 2,2024-01,440229.36,Dota 2 Update - 1/8/2024,update
+570,Dota 2,2024-03,428918.55,Dota Plus Update — Spring 2024 (And Dota Labs); Dota 2 Update 3/28/2024,update
+570,Dota 2,2024-04,456550.81,Dota 2 Update - 4/22/2024,update
+570,Dota 2,2024-05,512919.2,Update 7.36 and Crownfall Act II,update
+570,Dota 2,2024-07,475393.65,Update 7.37 Is Here,update
+570,Dota 2,2024-08,449798.09,Dota 2 Update - 8/2/2024,update
+570,Dota 2,2024-11,454956.21,Dota 2 Update - 11/8/2024; Dota 2 Update - 11/12/2024,update
+570,Dota 2,2024-12,437635.69,Dota 2 Update - 12/3/2024; Dota 2 Update - 12/5/2024,update
+570,Dota 2,2025-02,431748.69,Explore Wandering Waters in the 7.38 Gameplay Update; Dota 2 Update - 2/21/2025,update
+570,Dota 2,2025-03,402851.23,Dota 2 Update - 3/19/2025,update
+570,Dota 2,2025-08,532355.19,Dota 2 Update - 08/08/2025; Dota 2 Update - 08/22/2025; Dota 2 Update - 8/28/2025,update
+570,Dota 2,2025-10,538998.03,Dota 2 Update - 10/09/2025,update
+570,Dota 2,2026-01,569324.18,Dota 2 Update - 1/30/2026,update
+570,Dota 2,2026-03,477855.57,Dota 2 Update - 3/31/2026,update
+570,Dota 2,2026-07,545528.29,Dota 2 Update - 7/1/2026,update
+440,Team Fortress 2,2012-10,46978.7,Big MvM Update!,update
+440,Team Fortress 2,2012-12,43623.98,The Mecha Update is Live!,update
+440,Team Fortress 2,2013-11,44536.35,The Two Cities Update is LIVE!,update
+440,Team Fortress 2,2015-07,60778.74,The Gun Mettle Update is (Actually) Here!; The Gun Mettle Update is (Almost) Here!,update
+440,Team Fortress 2,2017-05,50126.01,Fight Songs: The Music Of Team Fortress 2,dlc
+440,Team Fortress 2,2017-10,54963.29,The Jungle Inferno Update,update
+440,Team Fortress 2,2020-11,70304.79,Team Fortress 2 Update Released,update
+440,Team Fortress 2,2020-12,82423.51,Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released,update
+440,Team Fortress 2,2021-01,83148.17,Team Fortress 2 Update Released,update
+440,Team Fortress 2,2021-03,88703.56,Team Fortress 2 Update Released,update
+440,Team Fortress 2,2021-06,106222.95,Team Fortress 2 Update Released; Team Fortress 2 Update Released,update
+440,Team Fortress 2,2021-09,81854.01,Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released,update
+440,Team Fortress 2,2021-10,86103.07,Scream Fortress XIII has arrived!; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released,update
+440,Team Fortress 2,2021-11,96993.06,Team Fortress 2 Update Released,update
+440,Team Fortress 2,2021-12,89325.46,Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released,update
+440,Team Fortress 2,2022-01,79748.16,Team Fortress 2 Update Released,update
+440,Team Fortress 2,2022-03,72810.79,Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released,update
+440,Team Fortress 2,2022-06,90117.39,Team Fortress 2 Update Released; Team Fortress 2 Update Released,update
+440,Team Fortress 2,2022-07,109642.12,Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; PASS Time Federation Season 3,update
+440,Team Fortress 2,2022-08,97974.33,Team Fortress 2 Update Released,update
+440,Team Fortress 2,2022-09,96008.54,Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released,update
+440,Team Fortress 2,2022-10,92058.63,Scream Fortress XIV has arrived!; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released,update
+440,Team Fortress 2,2022-11,89344.18,Team Fortress 2 Update Released,update
+440,Team Fortress 2,2022-12,99266.25,Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released,update
+440,Team Fortress 2,2023-01,94161.21,Team Fortress 2 Update Released,update
+440,Team Fortress 2,2023-03,91692.98,Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released,update
+440,Team Fortress 2,2023-07,118906.77,Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released,update
+440,Team Fortress 2,2023-09,76408.31,Team Fortress 2 Update Released,update
+440,Team Fortress 2,2023-10,76833.24,Scream Fortress XV has arrived!; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released,update
+440,Team Fortress 2,2023-12,115016.03,Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released,update
+440,Team Fortress 2,2024-01,94137.4,Team Fortress 2 Update Released,update
+440,Team Fortress 2,2024-03,59993.08,CLTF2 Season 4,update
+440,Team Fortress 2,2024-04,64920.85,Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released,update
+440,Team Fortress 2,2024-07,97583.18,Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released,update
+440,Team Fortress 2,2024-08,63648.29,Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released,update
+440,Team Fortress 2,2024-10,52663.55,Team Fortress 2 Update Released; Scream Fortress XVI has arrived!; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released,update
+440,Team Fortress 2,2024-11,51794.45,Team Fortress 2 Update Released; Team Fortress 2 Update Released,update
+440,Team Fortress 2,2024-12,68682.9,Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released,update
+440,Team Fortress 2,2025-02,42205.35,Team Fortress 2 Update Released,update
+440,Team Fortress 2,2025-03,43816.4,TF2 Coaching Central Newbie Cup Season 10,update
+440,Team Fortress 2,2025-05,41675.36,Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released,update
+440,Team Fortress 2,2025-07,44977.34,Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released,update
+440,Team Fortress 2,2025-08,46105.64,Team Fortress 2 Update Released; Team Fortress 2 Update Released; TFCL QEL Post Season Cup 2; Team Fortress 2 Update Released,update
+440,Team Fortress 2,2025-09,47672.62,ETF2L is hosting its 50th 6v6 Season!,update
+440,Team Fortress 2,2025-10,44426.91,Scream Fortress XVII has arrived!; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released,update
+440,Team Fortress 2,2025-12,52408.03,Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released,update
+440,Team Fortress 2,2026-02,49577.86,Fruit Mixes Season 4,update
+440,Team Fortress 2,2026-03,49522.4,Team Fortress 2 Update Released; Team Fortress 2 Update Released,update
+440,Team Fortress 2,2026-05,46196.31,Team Fortress 2 Update Released; Team Fortress 2 Update Released,update
+440,Team Fortress 2,2026-06,44841.9,TFCL Alpha Season 2,update
+440,Team Fortress 2,2026-07,47819.73,Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released,update
+440,Team Fortress 2,2026-10,75312.92,Scream Fortress XVIII has arrived!; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released; Team Fortress 2 Update Released,update
+1172470,Apex Legends,2020-11,74957.26,"Season 7 launches at 8pm PT, Nov 4th",update
+1172470,Apex Legends,2021-02,120982.64,Season 8: Mayhem is now live across all platforms!,update
+1172470,Apex Legends,2021-05,164238.01,Legacy Update Notice,update
+1172470,Apex Legends,2021-09,139647.96,Emergence Update Now Live,update
+1172470,Apex Legends,2023-02,257416.67,NEW UPDATES COMING WITH APEX LEGENDS: REVELRY,update
+1172470,Apex Legends,2023-05,227947.44,NEW UPDATES COMING WITH APEX LEGENDS: ARSENAL,update
+1172470,Apex Legends,2023-08,188891.82,NEW UPDATES COMING WITH APEX LEGENDS™: RESURRECTION,update
+1172470,Apex Legends,2023-09,186494.41,Revenant unlocked all season long,update
+1172470,Apex Legends,2023-10,181420.4,NEW UPDATES WITH APEX LEGENDS™: IGNITE,update
+1172470,Apex Legends,2024-02,185661.61,NEW UPDATES COMING WITH APEX LEGENDS™: BREAKOUT,update
+1172470,Apex Legends,2024-05,167424.45,NEW UPDATES COMING WITH APEX LEGENDS™: UPHEAVAL,update
+1172470,Apex Legends,2024-08,120008.56,NEW UPDATES COMING WITH APEX LEGENDS™: SHOCKWAVE,update
+1172470,Apex Legends,2024-11,91362.07,New Updates Coming with Apex Legends™: From The Rift,update
+1172470,Apex Legends,2025-02,95099.47,"New Updates Coming with Apex Legends™: Takeover; February 19, 2025 - Update",update
+1172470,Apex Legends,2025-03,90276.4,"March 5, 2025 - Update; Apex Legends - March 17, 2025 Update",update
+1172470,Apex Legends,2025-04,106840.8,Apex Legends Latest Update: 2025/4/8,update
+1172470,Apex Legends,2025-05,134646.62,New Updates Coming with Apex Legends™: Sparrow; Latest Apex Legends Update: 2025/05/29,update
+1172470,Apex Legends,2025-06,106933.93,Latest Apex Legends Update: 2025/06/03; Apex Legends: 6/18/25 Update; Apex Legends: Update 6/18/25; Apex Legends - 6/25/25 Update,update
+1172470,Apex Legends,2025-07,90567.12,Apex Legends: Update 6/30/25; Apex Legends: 2025/07/02 Update; Apex Legends: 7/7/25 Update; 7/24/25 - Apex Legends Update,update
+1172470,Apex Legends,2025-08,101672.5,Apex Legends 8/5/25 Update; Apex Legends: 8/5/25 Update; Apex Legends: 8/6/25 Update; Latest Apex Legends Update: 2025/08/07; Apex Legends: 8/8/25 Update; Apex Legends Update: 8/12/25; Apex Legends: 8/13/25 Update; Apex Legends: 8/14/25 Revenant Update; Apex Legends: 8/14/25 Update; Apex Legends: 8/19/2025 Latest Update; Latest Apex Legends Update: 2025/08/25; Latest Apex Legends Accolades Update: 2025/08/25; Latest Apex Legends Update: 2025/08/29,update
+1172470,Apex Legends,2025-09,83772.59,Apex Legends - 9/3/25 Update; Apex Legends 9/5/25 Update; Latest Apex Legends Update: 2025/09/06; Latest Apex Legends Steam Update: 2025/09/11; Latest Apex Legends Steam Update: 2025/09/16; Latest Apex Legends Update: 2025/09/17; Latest Apex Legends Update: 2025/09/19; Latest Apex Legends Update: 2025/09/25; Latest Apex Legends Update: 2025/09/30,update
+1172470,Apex Legends,2025-10,73654.11,Latest Apex Legends Update: 2025/10/07; Latest Apex Legends Update: 2025/10/09; Latest Apex Legends Update: 2025/10/10; Apex Legends™: Audio Update; NEW UPDATES COMING WITH APEX LEGENDS™: AMPED,update
+1172470,Apex Legends,2025-11,89983.17,Apex Legends: Latest Update 11/4/2025; Apex Legends: Latest Update 11/4/25; Apex Legends: Latest Update 11/7/2025 - 8:50PM PT; Apex Legends: Latest Update 11/7/2025; Apex Legends: Latest Update 11/10/2025; Apex Legends: Latest Update 11/12/2025; Apex Legends: Latest Update 11/18/25; Apex Legends: Latest Update 11/20/2025; Apex Legends: Latest Update 11/20/2025 - 4:15pm PDT; Apex Legends: Latest Update 11/24/25; Apex Legends: Latest Update 27.0.2; Apex Legends: Latest Update 11/26/25,update
+1172470,Apex Legends,2025-12,78780.9,Apex Legends: Latest Update 12/2/2025; Apex Legends: Latest Update 12/17/25; Latest Update: Apex Legends 12/16/2025,update
+1172470,Apex Legends,2026-01,86432.72,"Latest Update: Apex Legends 1/6/26; Apex Legends: Latest Update - 01/06/2026; Apex Legends: Latest Update - 01/14/2026; Apex Legends: Latest Update 01/23/2026; New Official Apex Social Channels for Updates, Bugs, News, & More; APEX LEGENDS UPDATE 01/27/2026; Apex Legends: Latest Update 01/29/26",update
+1172470,Apex Legends,2026-02,88899.87,NEW UPDATES COMING WITH APEX LEGENDS™: BREACH; An Update from the Anti Cheat Team; Apex Legends: Latest Update 2/10/26; Apex Legends: Latest Update 2/12/26; Apex Legends: Latest Update 02/13/2026; An Update from the Anti Cheat Team; An Update from the Anti Cheat Team 02/18/2026; Apex Legends: Latest Update 02/18/2026; Apex Legends: Latest Update 2/23/26; An Update from the Anti Cheat Team - 02/25/2026; Apex Legends: Game Stability Update - 2/26/2026,update
+1172470,Apex Legends,2026-03,111603.39,Apex Legends: Latest Update 03/04/2026; Apex Legends: Latest Update 03/06/2026; Apex Legends: Latest Update 3/10/2026; Apex Legends: Latest Update 3/11/2026; An Update from the Anti Cheat Team 03/19/2026; Apex Legends: Latest Update 3/24/2026; Apex Legends: Latest Update 3/26/26,update
+1172470,Apex Legends,2026-04,124387.18,Apex Legends: Latest Update - 04/01/2026; Apex Legends: Latest Update - 04/02/2026 - Part 2; Apex Legends: Latest Update - 04/2/2026; Apex Legends: Latest Update 04/03/2026; Apex Legends: Latest Update 4/8/2026; Apex Legends: Latest Update 4/10/2026; Apex Legends: Latest Update 4/14/2026; Apex Legends: Latest Update 4/16/2026; Apex Legends: Latest Update 4/17/26; New Updates Coming with Apex Legends™: Overclocked,update
+1172470,Apex Legends,2026-05,128963.96,"Apex Legends: Latest Update - 05/05/2026, 2:00pm PT; Apex Legends: Latest Update - 05/05/2026; Apex Legends: Latest Update - 05/06/2026; Apex Legends: Latest Update 5PM PT; Apex Legends: Latest Update 5/11/2026; An Update from the Anti Cheat Team - 05/21/2026; Apex Legends: Latest Update 5/22/202 (As of 3:20pm PT); Apex Legends: Latest Update 5/26/26; Apex Legends: Latest Update 05/27/2026; Apex Legends: Latest Update 5/28/2026; Latest Update 5/27/26 (As of 5:16 PM PT); Apex Legends: Latest Update 5/29/2026",update
+1172470,Apex Legends,2026-06,104455.48,Apex Legends: Latest Update 6/2/2026; Apex Legends: Latest Update 6/4/2026; Apex Legends: Latest Update 6/5/2026; Apex Legends: Latest Update 6/9/2026; Apex Legends: Latest Update - 06/17/2026; An Update from the Anti Cheat Team - 06/17/2026; Apex Legends: Latest Update - 06/23/2026; Apex Legends: Latest Update 6/24/26; Apex Legends: Latest Update - 06/25/2026; Apex Legends: Latest Update - 06/24/2026 - 6:00pm PT; Apex Legends: Latest Update 6/26/26; Apex Legends: Latest Update - 06/25/2026 - 5:20PM PT; Apex Legends: Latest Update 6/30/2026,update
+1172470,Apex Legends,2026-07,97484.57,Apex Legends: Latest Update 7/1/26 as of 2:00pm PT; Apex Legends: Latest Update 7/1/2026; Apex Legends: Latest Update 7/2/2026 3:15PM PT; Apex Legends: Latest Update 7/2/2026; An Update from the Anti Cheat Team - Auto Aim Manipulation; Apex Legends: Latest Update 7/9/2026; Apex Legends: Latest Update - 07/15/2026; Apex Legends: Latest Update - 07/21/2026,update
+1172470,Apex Legends,2026-08,127651.21,Apex Legends: Latest Update 8/4/2026; Apex Legends: Latest Update 8/11/26; Apex Legends: Latest Update - 08/17/2026; Apex Legends: Latest Updates - 08/19/2026 - 3:30pm PT; Apex Legends: Latest Update 8/19/2026; Apex Legends: Latest Update 8/21/2026; Apex Legends: Latest Update 8/25/2026; Apex Legends: Latest Update 8/26/2026,update
+1172470,Apex Legends,2026-09,115146.51,Apex Legends: Latest Update 9/3/2026; Apex Legends: Latest Update 9/17/2026; An Update from the Anti Cheat Team - 09/18/2026; Apex Legends: Latest Update - 09/21/2026; Apex Legends: Latest Update - 09/22/2026; Apex Legends: Latest Update - 09/23/2026; Apex Legends: Latest Update - 09/24/2026 - 2:00pm PT; Apex Legends: Latest Updates - 09/24/2026; Apex Legends: Latest Update 9/28/2026; Apex Legends: Latest Update - 09/29/2026,update
+1172470,Apex Legends,2026-10,97171.15,An Update from the Anti Cheat Team - 10/01/2026; Apex Legends: Latest Update 10/02/2026; Apex Legends: Latest Update - 10/01/2026; Apex Legends: Latest Update 10/6/2026; An Update from the Anti Cheat Team - 10/08/2026; An Update from the Anti Cheat Team - 10/09/2026; Apex Legends: Latest Update - 10/09/2026; Apex Legends: Latest Update 10/20/2026; Apex Legends: Latest Update - 10/26/2026,update
+289070,Sid Meier's Civilization VI,2016-11,40282.56,Civilization VI ‘Fall 2016’ Update Now Live,update
+289070,Sid Meier's Civilization VI,2016-12,24448.75,Civilization VI ‘Winter 2016 Update’ Now Live,update
+289070,Sid Meier's Civilization VI,2017-02,18554.36,Civilization VI ‘Australian Summer 2017 Update’ Now Live,update
+289070,Sid Meier's Civilization VI,2017-03,17493.03,Civilization VI ‘Spring 2017 Update’ Now Live,update
+289070,Sid Meier's Civilization VI,2017-04,16457.99,Sid Meier’s Civilization® VI: ‘Spring 2017 Update’ is Live on Mac and Linux Steam!,update
+289070,Sid Meier's Civilization VI,2017-07,16390.29,Civilization VI 'Summer 2017 Update' Available Now,update
+289070,Sid Meier's Civilization VI,2017-10,15183.7,Religion Gets a Reboot in the Civilization VI ‘Fall 2017 Update’; Civilization VI 'Fall 2017 Update' Available Now,update
+289070,Sid Meier's Civilization VI,2017-11,16304.86,Civilization VI Update Available Now,update
+289070,Sid Meier's Civilization VI,2018-02,33383.23,Sid Meier’s Civilization® VI: Rise and Fall,dlc
+289070,Sid Meier's Civilization VI,2018-03,23396.86,Now Live: Civilization VI: Rise and Fall – March 2018 Update,update
+289070,Sid Meier's Civilization VI,2018-05,17178.07,Civilization VI: Rise and Fall – Spring 2018 Update Available Now,update
+289070,Sid Meier's Civilization VI,2018-07,17653.15,Civilization VI update [7/19/18],update
+289070,Sid Meier's Civilization VI,2018-12,26756.61,Launcher Update (12/5/18),update
+289070,Sid Meier's Civilization VI,2019-02,41695.61,Launcher Update (2/11/19); Gathering Storm Launch Update for Civilization VI + Rise and Fall; Sid Meier's Civilization® VI: Gathering Storm,update; dlc
+289070,Sid Meier's Civilization VI,2019-04,24275.05,Civilization VI: Gathering Storm - Antarctic Late Summer Update Available Now; Civilization VI Great Works and Trade Update,update
+289070,Sid Meier's Civilization VI,2019-06,21863.4,Civilization VI: Gathering Storm – June 2019 Update Available Now,update
+289070,Sid Meier's Civilization VI,2019-09,21842.94,Civilization VI – September 2019 Update Available Now,update
+289070,Sid Meier's Civilization VI,2020-05,41792.36,Sid Meier's Civilization® VI: New Frontier Pass; Sid Meier's Civilization® VI: Maya & Gran Colombia Pack,dlc
+289070,Sid Meier's Civilization VI,2020-06,39799.04,Meet the New Factions of Red Death - Season 2; Civilization VI - June 2020 Game Update Available Now,update
+289070,Sid Meier's Civilization VI,2020-07,37644.69,Sid Meier's Civilization® VI: Ethiopia Pack,dlc
+289070,Sid Meier's Civilization VI,2020-08,33710.97,Civilization VI - August 2020 Game Update Coming Next Week; Civilization VI - August 2020 Game Update Available Now,update
+289070,Sid Meier's Civilization VI,2020-09,31139.08,Sid Meier's Civilization® VI: Byzantium & Gaul Pack,dlc
+289070,Sid Meier's Civilization VI,2020-10,32493.92,Civilization VI - October 2020 Update Coming Next Week; Civilization VI - October 2020 Update Available Now,update
+289070,Sid Meier's Civilization VI,2020-11,33946.42,Sid Meier's Civilization® VI: Babylon Pack,dlc
+289070,Sid Meier's Civilization VI,2020-12,32816.95,Civilization VI - December 2020 Game Update Available Now,update
+289070,Sid Meier's Civilization VI,2021-01,36731.49,Sid Meier's Civilization® VI: Vietnam & Kublai Khan Pack,dlc
+289070,Sid Meier's Civilization VI,2021-02,41715.13,Civilization VI - February 2021 Game Update Available Now,update
+289070,Sid Meier's Civilization VI,2021-03,34433.13,Sid Meier's Civilization® VI: Portugal Pack,dlc
+289070,Sid Meier's Civilization VI,2021-04,34992.65,APRIL 2021 GAME UPDATE AVAILABLE NOW,update
+289070,Sid Meier's Civilization VI,2021-12,34026.19,2K Launcher 1.3.0 Release Notes,update
+289070,Sid Meier's Civilization VI,2022-03,38288.82,2K Launcher v1.5.0 Release Notes,update
+289070,Sid Meier's Civilization VI,2022-11,45698.54,Sid Meier’s Civilization® VI: Leader Pass,dlc
+289070,Sid Meier's Civilization VI,2022-12,46709.19,Civilization VI - December 2022 Update Available Now,update
+289070,Sid Meier's Civilization VI,2023-03,45817.27,Civilization VI – March 15 Update Available Now,update
+289070,Sid Meier's Civilization VI,2023-04,45993.45,Civilization VI - April 2023 Update Available Now,update
+289070,Sid Meier's Civilization VI,2023-08,39201.44,CIV VI: AUGUST 2023 UPDATE INCLUDES NEW LEADER ABILITIES,update
+289070,Sid Meier's Civilization VI,2024-06,52902.63,2K Launcher Bug Fix - June 2024,update
+289070,Sid Meier's Civilization VI,2024-11,41316.4,2K Launcher Removal,update
+289070,Sid Meier's Civilization VI,2025-06,28534.58,Civilization VII Update 1.2.2 – Jun 23,update
