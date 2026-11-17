@@ -53,7 +53,12 @@ def read_monthly_history(
 
             month_label = row["month"].strip()
             try:
-                month = datetime.strptime(month_label, MONTH_FORMAT)
+                try:
+                    month = datetime.strptime(month_label, MONTH_FORMAT)
+                except ValueError:
+                    if month_label.lower() == "last 30 days":
+                        continue
+                    month = datetime.strptime(month_label, "%B %Y")
                 average_players = float(row["avg_players"])
             except (TypeError, ValueError) as error:
                 raise ValueError(
@@ -71,16 +76,61 @@ def read_monthly_history(
     return history
 
 
-def read_events(path: Path, games: dict[str, str]) -> dict[str, dict[str, list[datetime]]]:
-    events: dict[str, dict[str, list[datetime]]] = {
+def read_monthly_event_months(
+    path: Path, games: dict[str, str]
+) -> dict[str, dict[str, list[datetime]]]:
+    event_months: dict[str, dict[str, list[datetime]]] = {
         app_id: {"update": [], "dlc": []} for app_id in games
     }
     with path.open(newline="", encoding="utf-8-sig") as csv_file:
         reader = csv.DictReader(csv_file)
-        required_columns = {"app_id", "event_type", "date"}
+        required_columns = {"app_id", "month", "event_name", "event_type"}
         if reader.fieldnames is None or not required_columns.issubset(reader.fieldnames):
             raise ValueError(
-                f"{path} must contain app_id, event_type, and date columns"
+                f"{path} must contain app_id, month, event_name, and event_type columns"
+            )
+
+        for line_number, row in enumerate(reader, start=2):
+            app_id = row["app_id"].strip()
+            if app_id not in games or not row["event_name"].strip():
+                continue
+
+            try:
+                month = datetime.strptime(row["month"].strip(), MONTH_FORMAT)
+            except ValueError as error:
+                raise ValueError(
+                    f"Invalid event month on line {line_number} of {path}: {error}"
+                ) from error
+
+            event_type_value = row["event_type"].strip()
+            event_types = {
+                event_type.strip().lower() for event_type in event_type_value.split(";")
+            }
+            if not event_type_value or not event_types.issubset({"update", "dlc"}):
+                raise ValueError(
+                    f"Invalid event type on line {line_number} of {path}"
+                )
+            for event_type in event_types:
+                event_months[app_id][event_type].append(month)
+
+    for app_events in event_months.values():
+        for event_type, months in app_events.items():
+            app_events[event_type] = sorted(set(months))
+    return event_months
+
+
+def read_events(
+    path: Path, games: dict[str, str]
+) -> dict[str, dict[str, list[tuple[datetime, str]]]]:
+    events: dict[str, dict[str, list[tuple[datetime, str]]]] = {
+        app_id: {"update": [], "dlc": []} for app_id in games
+    }
+    with path.open(newline="", encoding="utf-8-sig") as csv_file:
+        reader = csv.DictReader(csv_file)
+        required_columns = {"app_id", "event_type", "event_name", "date"}
+        if reader.fieldnames is None or not required_columns.issubset(reader.fieldnames):
+            raise ValueError(
+                f"{path} must contain app_id, event_type, event_name, and date columns"
             )
 
         for line_number, row in enumerate(reader, start=2):
@@ -92,10 +142,21 @@ def read_events(path: Path, games: dict[str, str]) -> dict[str, dict[str, list[d
             if event_type not in {"update", "dlc"}:
                 continue
 
-            date_value = row["date"].strip()
-            if not date_value:
+            event_name = row["event_name"].strip()
+            if not event_name:
                 continue
 
+            normalized_event_name = event_name.lower()
+            if "patch" in normalized_event_name:
+                continue
+            elif "bugfix" in normalized_event_name:
+                continue
+            elif "dev" in normalized_event_name:
+                continue
+            elif "developer" in normalized_event_name:
+                continue
+
+            date_value = row["date"].strip()
             try:
                 event_date = datetime.strptime(date_value, "%Y-%m-%d")
             except ValueError as error:
@@ -103,11 +164,11 @@ def read_events(path: Path, games: dict[str, str]) -> dict[str, dict[str, list[d
                     f"Invalid event date on line {line_number} of {path}: {error}"
                 ) from error
 
-            events[app_id][event_type].append(event_date)
+            events[app_id][event_type].append((event_date, event_name))
 
     for app_events in events.values():
         for event_type in app_events:
-            app_events[event_type].sort()
+            app_events[event_type].sort(key=lambda event: event[0])
 
     return events
 
@@ -116,14 +177,41 @@ def write_monthly_csv(
     path: Path,
     games: dict[str, str],
     history: dict[str, list[tuple[datetime, float]]],
+    events: dict[str, dict[str, list[tuple[datetime, str]]]],
 ) -> int:
     row_count = 0
     with path.open("w", newline="", encoding="utf-8") as csv_file:
         writer = csv.writer(csv_file)
-        writer.writerow(["app_id", "game", "month", "avg_players"])
+        writer.writerow(
+            ["app_id", "game", "month", "avg_players", "event_name", "event_type"]
+        )
         for app_id, game in games.items():
             for month, average_players in history[app_id]:
-                writer.writerow([app_id, game, month.strftime("%Y-%m"), average_players])
+                month_events = [
+                    (event_type, name)
+                    for event_type, event_list in events[app_id].items()
+                    for event_date, name in event_list
+                    if event_date.strftime("%Y-%m") == month.strftime("%Y-%m") and name
+                ]
+                if not month_events:
+                    continue
+
+                event_names = [name for _, name in month_events]
+                event_types = [
+                    event_type
+                    for event_type in ("update", "dlc")
+                    if any(kind == event_type for kind, _ in month_events)
+                ]
+                writer.writerow(
+                    [
+                        app_id,
+                        game,
+                        month.strftime("%Y-%m"),
+                        average_players,
+                        "; ".join(event_names),
+                        "; ".join(event_types),
+                    ]
+                )
                 row_count += 1
     return row_count
 
@@ -132,7 +220,7 @@ def write_game_charts(
     output_dir: Path,
     games: dict[str, str],
     history: dict[str, list[tuple[datetime, float]]],
-    events: dict[str, dict[str, list[datetime]]],
+    event_months: dict[str, dict[str, list[datetime]]],
 ) -> int:
     chart_count = 0
     for app_id, game in games.items():
@@ -151,12 +239,9 @@ def write_game_charts(
         figure, axis = plt.subplots(figsize=(11, 5))
         axis.plot(months, average_players, marker="o", markersize=3, linewidth=1.5)
 
-        update_dates = events[app_id]["update"]
-        dlc_dates = events[app_id]["dlc"]
-
-        for index, release_date in enumerate(update_dates):
+        for index, event_month in enumerate(event_months[app_id]["update"]):
             axis.axvline(
-                release_date,
+                event_month,
                 linestyle=(0, (1, 5)),
                 color="blue",
                 linewidth=1,
@@ -164,9 +249,9 @@ def write_game_charts(
                 label="Update" if index == 0 else None,
             )
 
-        for index, release_date in enumerate(dlc_dates):
+        for index, event_month in enumerate(event_months[app_id]["dlc"]):
             axis.axvline(
-                release_date,
+                event_month,
                 linestyle=(0, (1, 7)),
                 color="red",
                 linewidth=1,
@@ -174,7 +259,7 @@ def write_game_charts(
                 label="DLC" if index == 0 else None,
             )
 
-        if update_dates or dlc_dates:
+        if event_months[app_id]["update"] or event_months[app_id]["dlc"]:
             axis.legend()
 
         axis.margins(x=0)
@@ -195,12 +280,12 @@ def write_game_charts(
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="Plot monthly average players for each game using the cleaned player history and events data."
+        description="Plot monthly average players from player_history.csv with events from the generated monthly CSV."
     )
-    parser.add_argument("--history", type=Path, default=ROOT / "player_history_clean.csv")
+    parser.add_argument("--history", type=Path, default=ROOT / "player_history.csv")
     parser.add_argument("--events", type=Path, default=ROOT / "events.csv")
     parser.add_argument(
-        "--output-dir", type=Path, default=ROOT / "monthly_player_charts_with_events"
+        "--output-dir", type=Path, default=ROOT / "monthly_player_charts_with_stripped_events"
     )
     args = parser.parse_args()
 
@@ -209,10 +294,10 @@ def main() -> None:
     events = read_events(args.events, games)
     args.output_dir.mkdir(parents=True, exist_ok=True)
 
-    row_count = write_monthly_csv(
-        args.output_dir / "monthly_player_counts.csv", games, history
-    )
-    chart_count = write_game_charts(args.output_dir, games, history, events)
+    monthly_csv_path = args.output_dir / "monthly_player_counts.csv"
+    row_count = write_monthly_csv(monthly_csv_path, games, history, events)
+    event_months = read_monthly_event_months(monthly_csv_path, games)
+    chart_count = write_game_charts(args.output_dir, games, history, event_months)
     print(
         f"Wrote {row_count} monthly rows and {chart_count} game charts "
         f"to {args.output_dir}"
